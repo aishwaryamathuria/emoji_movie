@@ -1,5 +1,10 @@
 cd emoji-movie-finetuning
 
+# Presentation
+cd presentation
+npm install
+npm run dev
+
 # 1. Install dependencies
 python train.py install
 
