@@ -1,0 +1,5939 @@
+{
+  "_concept_emojis": {
+    "love": [
+      "💑",
+      "💋",
+      "❤️",
+      "💕",
+      "😍",
+      "💛",
+      "💙",
+      "💜",
+      "💖",
+      "😘",
+      "👫"
+    ],
+    "death": [
+      "💀",
+      "⚰️",
+      "😭",
+      "🪦",
+      "☠️",
+      "😢"
+    ],
+    "ship": [
+      "🚢",
+      "⛵",
+      "🛳️",
+      "⚓"
+    ],
+    "ice": [
+      "🧊",
+      "❄️",
+      "🥶",
+      "⛄"
+    ],
+    "ocean": [
+      "🌊",
+      "🏊",
+      "💧",
+      "🐟",
+      "🐠"
+    ],
+    "fire": [
+      "🔥",
+      "🔥",
+      "🌋"
+    ],
+    "magic": [
+      "✨",
+      "🪄",
+      "🔮",
+      "💫",
+      "⭐",
+      "🌟"
+    ],
+    "royalty": [
+      "👑",
+      "👸",
+      "🤴",
+      "🏰",
+      "👑"
+    ],
+    "fight": [
+      "⚔️",
+      "🗡️",
+      "🤜",
+      "💥",
+      "🥊",
+      "🤼"
+    ],
+    "war": [
+      "⚔️",
+      "💣",
+      "💥",
+      "🔫",
+      "🪖"
+    ],
+    "music": [
+      "🎵",
+      "🎶",
+      "🎤",
+      "🎸",
+      "🎹",
+      "🎼"
+    ],
+    "monster": [
+      "👹",
+      "😈",
+      "👿",
+      "🦎",
+      "👽"
+    ],
+    "space": [
+      "🚀",
+      "🌌",
+      "🛸",
+      "⭐",
+      "🌙",
+      "🪐"
+    ],
+    "robot": [
+      "🤖",
+      "🔌",
+      "⚡",
+      "🦾"
+    ],
+    "animal": [
+      "🦁",
+      "🐻",
+      "🐶",
+      "🐱",
+      "🐟",
+      "🦕"
+    ],
+    "dinosaur": [
+      "🦕",
+      "🦖",
+      "🧬"
+    ],
+    "science": [
+      "🔬",
+      "🧪",
+      "🧬",
+      "⚗️",
+      "👨‍🔬"
+    ],
+    "family": [
+      "👨‍👩‍👧‍👦",
+      "👨‍👦",
+      "👩‍👧",
+      "👶",
+      "🏠"
+    ],
+    "child": [
+      "👦",
+      "👧",
+      "👶",
+      "🧒"
+    ],
+    "prison": [
+      "⛓️",
+      "🏛️",
+      "🔒",
+      "🔐"
+    ],
+    "freedom": [
+      "🆓",
+      "🕊️",
+      "🗽"
+    ],
+    "nature": [
+      "🌲",
+      "🌿",
+      "🏔️",
+      "🌳",
+      "🏝️"
+    ],
+    "jungle": [
+      "🌴",
+      "🌿",
+      "🐍",
+      "🐒",
+      "🌲"
+    ],
+    "hero": [
+      "🦸",
+      "💪",
+      "😎",
+      "🏆"
+    ],
+    "villain": [
+      "😈",
+      "👿",
+      "🤑",
+      "😤"
+    ],
+    "car": [
+      "🏎️",
+      "🚗",
+      "🏍️",
+      "🚙"
+    ],
+    "speed": [
+      "💨",
+      "⚡",
+      "🏃",
+      "🏎️"
+    ],
+    "mystery": [
+      "🔍",
+      "🕵️",
+      "🧐",
+      "🔎"
+    ],
+    "horror": [
+      "😱",
+      "👻",
+      "💀",
+      "🔪",
+      "🩸"
+    ],
+    "ghost": [
+      "👻",
+      "🕯️",
+      "😱",
+      "💀"
+    ],
+    "dream": [
+      "💭",
+      "😴",
+      "💤",
+      "🌀"
+    ],
+    "time": [
+      "⏰",
+      "⌛",
+      "🕐",
+      "⏳"
+    ],
+    "money": [
+      "💰",
+      "💵",
+      "🤑",
+      "💎",
+      "💲"
+    ],
+    "jewel": [
+      "💎",
+      "💍",
+      "✨"
+    ],
+    "food": [
+      "🍔",
+      "🍕",
+      "🍝",
+      "🍫",
+      "🍳"
+    ],
+    "chocolate": [
+      "🍫",
+      "🍬",
+      "🍭"
+    ],
+    "snow": [
+      "❄️",
+      "⛄",
+      "🏔️",
+      "🌨️",
+      "🥶"
+    ],
+    "desert": [
+      "🏜️",
+      "☀️",
+      "🌵",
+      "🐪"
+    ],
+    "sword": [
+      "🗡️",
+      "⚔️",
+      "🤺"
+    ],
+    "gun": [
+      "🔫",
+      "🔫",
+      "💥"
+    ],
+    "fly": [
+      "✈️",
+      "🛫",
+      "🚀",
+      "🦅"
+    ],
+    "drug": [
+      "💊",
+      "💉",
+      "🚬"
+    ],
+    "school": [
+      "🏫",
+      "📚",
+      "👨‍🏫",
+      "✏️"
+    ],
+    "book": [
+      "📚",
+      "📖",
+      "✍️",
+      "📝"
+    ],
+    "film": [
+      "🎬",
+      "📽️",
+      "🎥",
+      "📸"
+    ],
+    "sing": [
+      "🎤",
+      "🎵",
+      "🎶",
+      "🎼"
+    ],
+    "dance": [
+      "💃",
+      "🕺",
+      "🩰"
+    ],
+    "sports": [
+      "⚽",
+      "🏈",
+      "🏀",
+      "🎾",
+      "🏆"
+    ],
+    "race": [
+      "🏁",
+      "🏎️",
+      "🏆",
+      "💨"
+    ],
+    "king": [
+      "👑",
+      "🤴",
+      "🏰"
+    ],
+    "queen": [
+      "👸",
+      "👑",
+      "🏰"
+    ],
+    "pirate": [
+      "🏴‍☠️",
+      "🗡️",
+      "🦜",
+      "💰"
+    ],
+    "witch": [
+      "🧙‍♀️",
+      "🔮",
+      "🧹",
+      "✨"
+    ],
+    "vampire": [
+      "🧛",
+      "🩸",
+      "⚰️",
+      "🌙"
+    ],
+    "zombie": [
+      "🧟",
+      "🧠",
+      "💀"
+    ],
+    "island": [
+      "🏝️",
+      "🌴",
+      "🌊"
+    ],
+    "city": [
+      "🏙️",
+      "🌃",
+      "🏢"
+    ],
+    "house": [
+      "🏠",
+      "🏡",
+      "🏚️",
+      "🚪"
+    ],
+    "wedding": [
+      "💍",
+      "💒",
+      "👰",
+      "🤵"
+    ],
+    "chess": [
+      "♟️",
+      "👸",
+      "🤔",
+      "🏆"
+    ],
+    "game": [
+      "🎮",
+      "🎲",
+      "🕹️"
+    ],
+    "phone": [
+      "📱",
+      "📞",
+      "📵"
+    ],
+    "computer": [
+      "💻",
+      "🖥️",
+      "⌨️"
+    ],
+    "brain": [
+      "🧠",
+      "🤔",
+      "💭"
+    ],
+    "train": [
+      "🚂",
+      "🚃",
+      "🚄",
+      "🚆"
+    ],
+    "plane": [
+      "✈️",
+      "🛫",
+      "🛬"
+    ],
+    "mountain": [
+      "🏔️",
+      "⛰️",
+      "🗻"
+    ],
+    "ring": [
+      "💍",
+      "🔵",
+      "✨"
+    ],
+    "power": [
+      "⚡",
+      "💪",
+      "🔋"
+    ],
+    "spy": [
+      "🕵️",
+      "🔫",
+      "🤫",
+      "😎"
+    ],
+    "art": [
+      "🎨",
+      "🖼️",
+      "✏️",
+      "🎭"
+    ],
+    "law": [
+      "⚖️",
+      "👮",
+      "🏛️",
+      "📋"
+    ],
+    "doctor": [
+      "🏥",
+      "💊",
+      "👨‍⚕️",
+      "🩺"
+    ],
+    "baby": [
+      "👶",
+      "🍼",
+      "👣"
+    ],
+    "old": [
+      "👴",
+      "👵",
+      "🧓"
+    ],
+    "cry": [
+      "😢",
+      "😭",
+      "💧"
+    ],
+    "laugh": [
+      "😂",
+      "🤣",
+      "😆"
+    ],
+    "angry": [
+      "😤",
+      "😡",
+      "🤬"
+    ],
+    "scared": [
+      "😱",
+      "😰",
+      "😨"
+    ],
+    "sad": [
+      "😢",
+      "😔",
+      "💔"
+    ],
+    "happy": [
+      "😊",
+      "😄",
+      "🎉"
+    ],
+    "explosion": [
+      "💥",
+      "🔥",
+      "💣"
+    ],
+    "nuclear": [
+      "☢️",
+      "⚛️",
+      "💣",
+      "💥"
+    ],
+    "treasure": [
+      "💎",
+      "💰",
+      "🗺️",
+      "🏆"
+    ],
+    "crown": [
+      "👑",
+      "🏰",
+      "💎"
+    ],
+    "prison_escape": [
+      "🔓",
+      "🏃",
+      "🕳️",
+      "🆓"
+    ],
+    "cooking": [
+      "👨‍🍳",
+      "🍳",
+      "🍽️",
+      "🔥"
+    ],
+    "painting": [
+      "🎨",
+      "🖌️",
+      "🖼️"
+    ],
+    "photograph": [
+      "📷",
+      "📸",
+      "🎞️"
+    ],
+    "worm": [
+      "🐛",
+      "🪱"
+    ],
+    "bug": [
+      "🪲",
+      "🐛",
+      "🦟"
+    ],
+    "lion": [
+      "🦁",
+      "🐾"
+    ],
+    "bear": [
+      "🐻",
+      "🧸"
+    ],
+    "fish": [
+      "🐟",
+      "🐠",
+      "🐡",
+      "🦈"
+    ],
+    "bird": [
+      "🐦",
+      "🦅",
+      "🕊️",
+      "🦆"
+    ],
+    "dog": [
+      "🐕",
+      "🐶",
+      "🐾"
+    ],
+    "cat": [
+      "🐱",
+      "🐈"
+    ],
+    "horse": [
+      "🐎",
+      "🐴",
+      "🏇"
+    ],
+    "snake": [
+      "🐍",
+      "🐉"
+    ],
+    "dragon": [
+      "🐉",
+      "🔥"
+    ]
+  },
+  "_movie_signatures": {
+    "Titanic": [
+      "🚢",
+      "🧊",
+      "💑"
+    ],
+    "The Lion King": [
+      "🦁",
+      "👑"
+    ],
+    "Jurassic Park": [
+      "🦖",
+      "🦕"
+    ],
+    "Finding Nemo": [
+      "🐠",
+      "🌊"
+    ],
+    "The Matrix": [
+      "💊",
+      "🕶️"
+    ],
+    "Frozen": [
+      "❄️",
+      "⛄"
+    ],
+    "Star Wars": [
+      "⭐",
+      "🗡️",
+      "🌌"
+    ],
+    "Toy Story": [
+      "🤠",
+      "🚀"
+    ],
+    "Inception": [
+      "💭",
+      "😴",
+      "🌀"
+    ],
+    "The Shawshank Redemption": [
+      "⛓️",
+      "🕳️"
+    ],
+    "Forrest Gump": [
+      "🏃",
+      "🍫"
+    ],
+    "The Godfather": [
+      "🔫",
+      "👨‍👩‍👦"
+    ],
+    "Harry Potter": [
+      "🪄",
+      "⚡",
+      "🏫"
+    ],
+    "The Dark Knight": [
+      "🦇",
+      "🃏"
+    ],
+    "Avengers": [
+      "🦸",
+      "💥"
+    ],
+    "Up": [
+      "🎈",
+      "🏠"
+    ],
+    "WALL-E": [
+      "🤖",
+      "🌱"
+    ],
+    "Coco": [
+      "💀",
+      "🎸"
+    ],
+    "Ratatouille": [
+      "🐀",
+      "👨‍🍳"
+    ],
+    "Spider-Man": [
+      "🕷️",
+      "🕸️"
+    ],
+    "The Wizard of Oz": [
+      "🌪️",
+      "👠"
+    ],
+    "E.T.": [
+      "👽",
+      "🚲"
+    ],
+    "Jaws": [
+      "🦈",
+      "🌊"
+    ],
+    "Ghostbusters": [
+      "👻",
+      "🔫"
+    ],
+    "Back to the Future": [
+      "⏰",
+      "🚗"
+    ],
+    "Gladiator": [
+      "⚔️",
+      "🏟️"
+    ],
+    "The Silence of the Lambs": [
+      "😈",
+      "🦋"
+    ],
+    "Schindler's List": [
+      "📋",
+      "💀"
+    ],
+    "Fight Club": [
+      "🤜",
+      "🧼"
+    ],
+    "Pulp Fiction": [
+      "💼",
+      "💉"
+    ],
+    "The Truman Show": [
+      "📺",
+      "🏠"
+    ],
+    "Interstellar": [
+      "🕳️",
+      "🚀",
+      "⏰"
+    ],
+    "Gravity": [
+      "🚀",
+      "🌍"
+    ],
+    "The Revenant": [
+      "🐻",
+      "❄️"
+    ],
+    "Mad Max Fury Road": [
+      "🏎️",
+      "🔥",
+      "🏜️"
+    ],
+    "Parasite": [
+      "🏠",
+      "⬆️",
+      "⬇️"
+    ],
+    "Joker": [
+      "🃏",
+      "💃"
+    ],
+    "Black Panther": [
+      "🐾",
+      "👑"
+    ],
+    "Wonder Woman": [
+      "🦸‍♀️",
+      "⚔️"
+    ],
+    "Moana": [
+      "🌊",
+      "🪝"
+    ],
+    "Zootopia": [
+      "🐰",
+      "🦊"
+    ],
+    "Inside Out": [
+      "🧠",
+      "😢",
+      "😄"
+    ],
+    "Soul": [
+      "🎹",
+      "👻"
+    ],
+    "Encanto": [
+      "🏠",
+      "✨",
+      "🦋"
+    ],
+    "Luca": [
+      "🐟",
+      "🛵"
+    ],
+    "Turning Red": [
+      "🐼",
+      "😡"
+    ],
+    "The Incredibles": [
+      "🦸",
+      "👨‍👩‍👧‍👦"
+    ],
+    "Shrek": [
+      "🟢",
+      "🐉",
+      "👸"
+    ],
+    "Kung Fu Panda": [
+      "🐼",
+      "🥋"
+    ],
+    "How to Train Your Dragon": [
+      "🐉",
+      "👦"
+    ],
+    "Avatar": [
+      "🌿",
+      "🔵",
+      "🐉"
+    ],
+    "Dune": [
+      "🏜️",
+      "🐛"
+    ],
+    "The Lord of the Rings": [
+      "💍",
+      "🌋",
+      "🧙"
+    ],
+    "Pirates of the Caribbean": [
+      "🏴‍☠️",
+      "🚢"
+    ],
+    "Iron Man": [
+      "🦾",
+      "❤️"
+    ],
+    "Thor": [
+      "🔨",
+      "⚡"
+    ],
+    "Captain America": [
+      "🛡️",
+      "⭐"
+    ],
+    "Guardians of the Galaxy": [
+      "🚀",
+      "🌌",
+      "🎵"
+    ],
+    "Doctor Strange": [
+      "🔮",
+      "⏰"
+    ],
+    "Ant-Man": [
+      "🐜",
+      "🔬"
+    ],
+    "The Hunger Games": [
+      "🏹",
+      "🔥"
+    ],
+    "John Wick": [
+      "🔫",
+      "🐕"
+    ],
+    "Mission Impossible": [
+      "🕵️",
+      "💣"
+    ],
+    "Fast and Furious": [
+      "🏎️",
+      "👨‍👩‍👧‍👦"
+    ],
+    "Rocky": [
+      "🥊",
+      "🏃"
+    ],
+    "Top Gun": [
+      "✈️",
+      "🕶️"
+    ],
+    "A Star Is Born": [
+      "🎤",
+      "💔"
+    ],
+    "La La Land": [
+      "🌙",
+      "💃",
+      "🎹"
+    ],
+    "Bohemian Rhapsody": [
+      "🎤",
+      "🎸"
+    ],
+    "Whiplash": [
+      "🥁",
+      "😤"
+    ],
+    "The Greatest Showman": [
+      "🎪",
+      "🎩"
+    ],
+    "Les Miserables": [
+      "🎵",
+      "🇫🇷"
+    ],
+    "The Notebook": [
+      "💌",
+      "🌧️"
+    ],
+    "Romeo and Juliet": [
+      "💑",
+      "🗡️",
+      "💀"
+    ],
+    "Twilight": [
+      "🧛",
+      "🐺"
+    ],
+    "The Conjuring": [
+      "👻",
+      "🏚️"
+    ],
+    "It": [
+      "🤡",
+      "🎈"
+    ],
+    "Get Out": [
+      "🧠",
+      "🫖"
+    ],
+    "A Quiet Place": [
+      "🤫",
+      "👹"
+    ],
+    "The Shining": [
+      "🪓",
+      "❄️",
+      "🏨"
+    ],
+    "Alien": [
+      "👽",
+      "🚀"
+    ],
+    "Terminator": [
+      "🤖",
+      "🔫"
+    ],
+    "Terminator 2": [
+      "🤖",
+      "👍"
+    ],
+    "The Social Network": [
+      "💻",
+      "👤"
+    ],
+    "Home Alone": [
+      "🏠",
+      "😂",
+      "🪤"
+    ],
+    "Breaking Bad": [
+      "🧪",
+      "💎"
+    ],
+    "Stranger Things": [
+      "👹",
+      "🔦",
+      "🚲"
+    ],
+    "Game of Thrones": [
+      "🐉",
+      "⚔️",
+      "👑"
+    ],
+    "The Crown": [
+      "👑",
+      "💎"
+    ],
+    "Wednesday": [
+      "🖤",
+      "✋"
+    ],
+    "Squid Game": [
+      "🦑",
+      "🔴",
+      "💰"
+    ],
+    "Money Heist": [
+      "🎭",
+      "💰"
+    ],
+    "The Witcher": [
+      "⚔️",
+      "🧪"
+    ],
+    "The Queen's Gambit": [
+      "♟️",
+      "👸"
+    ],
+    "Peaky Blinders": [
+      "🔪",
+      "🎩"
+    ],
+    "Narcos": [
+      "💊",
+      "💰"
+    ],
+    "Friends": [
+      "☕",
+      "🛋️"
+    ],
+    "The Mandalorian": [
+      "👶",
+      "🪖"
+    ],
+    "The Boys": [
+      "🦸",
+      "🩸"
+    ],
+    "The Last of Us": [
+      "🍄",
+      "👨‍👧"
+    ],
+    "House of the Dragon": [
+      "🐉",
+      "🔥"
+    ],
+    "The Bear": [
+      "🐻",
+      "👨‍🍳"
+    ],
+    "Succession": [
+      "💰",
+      "👨‍👩‍👧‍👦"
+    ],
+    "Oppenheimer": [
+      "⚛️",
+      "💣"
+    ],
+    "Barbie": [
+      "👱‍♀️",
+      "💖"
+    ],
+    "Dune Part Two": [
+      "🏜️",
+      "🐛",
+      "🗡️"
+    ],
+    "Wonka": [
+      "🍫",
+      "🎩"
+    ],
+    "The Menu": [
+      "🍽️",
+      "👨‍🍳",
+      "🔪"
+    ],
+    "Nope": [
+      "🛸",
+      "🐎"
+    ],
+    "Saltburn": [
+      "🏰",
+      "🛁"
+    ],
+    "Past Lives": [
+      "🇰🇷",
+      "💭"
+    ],
+    "Killers of the Flower Moon": [
+      "🛢️",
+      "💀"
+    ],
+    "Napoleon": [
+      "👑",
+      "⚔️",
+      "🇫🇷"
+    ],
+    "Poor Things": [
+      "🧠",
+      "🔬"
+    ],
+    "M3GAN": [
+      "🤖",
+      "💃"
+    ],
+    "Cocaine Bear": [
+      "🐻",
+      "❄️"
+    ],
+    "John Wick 4": [
+      "🔫",
+      "⛪"
+    ],
+    "The Holdovers": [
+      "👨‍🏫",
+      "❄️"
+    ],
+    "Inside Out 2": [
+      "🧠",
+      "😰"
+    ],
+    "Deadpool and Wolverine": [
+      "🔴",
+      "🐺"
+    ],
+    "Wicked": [
+      "🧙‍♀️",
+      "💚"
+    ],
+    "Alien Romulus": [
+      "👽",
+      "🥚"
+    ],
+    "Nosferatu": [
+      "🧛",
+      "🌙"
+    ],
+    "Civil War": [
+      "📸",
+      "🇺🇸"
+    ],
+    "The Wild Robot": [
+      "🤖",
+      "🦆"
+    ],
+    "Conclave": [
+      "⛪",
+      "🗳️"
+    ],
+    "Furiosa": [
+      "🏜️",
+      "🚗"
+    ],
+    "Gladiator 2": [
+      "⚔️",
+      "🏟️"
+    ],
+    "Challengers": [
+      "🎾",
+      "💋"
+    ],
+    "Godzilla Minus One": [
+      "🦎",
+      "💥"
+    ],
+    "Beetlejuice Beetlejuice": [
+      "👻",
+      "🪦"
+    ],
+    "The Substance": [
+      "💉",
+      "🪞"
+    ],
+    "Smile 2": [
+      "😊",
+      "😈"
+    ],
+    "Twisters": [
+      "🌪️",
+      "🏠"
+    ],
+    "Moana 2": [
+      "🌊",
+      "⛵"
+    ],
+    "Anora": [
+      "💃",
+      "💍"
+    ],
+    "A Complete Unknown": [
+      "🎸",
+      "🎵"
+    ],
+    "The Brutalist": [
+      "🏗️",
+      "🇺🇸"
+    ],
+    "Emilia Perez": [
+      "💃",
+      "⚖️"
+    ],
+    "Sonic the Hedgehog 3": [
+      "🦔",
+      "💨"
+    ],
+    "Mufasa The Lion King": [
+      "🦁",
+      "🐾"
+    ],
+    "12 Angry Men": [
+      "⚖️",
+      "😤",
+      "🪑"
+    ],
+    "12 Years a Slave": [
+      "⛓️",
+      "🪵",
+      "😢"
+    ],
+    "1917": [
+      "💣",
+      "🪖",
+      "⏱️"
+    ],
+    "2001: A Space Odyssey": [
+      "🛸",
+      "🦴",
+      "🖥️"
+    ],
+    "A Beautiful Mind": [
+      "🧠",
+      "📐",
+      "👻"
+    ],
+    "A Haunting in Venice": [
+      "🏚️",
+      "🔍",
+      "🇮🇹"
+    ],
+    "A Quiet Place Day One": [
+      "🤫",
+      "👾",
+      "🏙️"
+    ],
+    "Abigail": [
+      "🧛",
+      "🩰",
+      "🩸"
+    ],
+    "Akira": [
+      "🏍️",
+      "💥",
+      "🧬"
+    ],
+    "Aladdin": [
+      "🧞",
+      "🪔",
+      "🐒"
+    ],
+    "American Fiction": [
+      "📚",
+      "✍️",
+      "🎭"
+    ],
+    "Anatomy of a Fall": [
+      "⚖️",
+      "🏔️",
+      "🔍"
+    ],
+    "Andor": [
+      "🌌",
+      "✊",
+      "🔭"
+    ],
+    "Anyone But You": [
+      "💑",
+      "🏖️",
+      "😤"
+    ],
+    "Apocalypse Now": [
+      "🚁",
+      "🌿",
+      "💀"
+    ],
+    "Aquaman": [
+      "🔱",
+      "🌊",
+      "🐙"
+    ],
+    "Aquaman and the Lost Kingdom": [
+      "🔱",
+      "🌊",
+      "👑"
+    ],
+    "Arcane": [
+      "⚙️",
+      "💜",
+      "✊"
+    ],
+    "Argo": [
+      "✈️",
+      "🎬",
+      "🇮🇷"
+    ],
+    "Arrival": [
+      "🛸",
+      "🐙",
+      "🔤"
+    ],
+    "Asteroid City": [
+      "☄️",
+      "🏜️",
+      "🔭"
+    ],
+    "Attack on Titan": [
+      "🏰",
+      "⚔️",
+      "👹"
+    ],
+    "Baby Reindeer": [
+      "🦌",
+      "😰",
+      "📱"
+    ],
+    "Bad Boys Ride or Die": [
+      "🚔",
+      "💥",
+      "🔫"
+    ],
+    "Bambi": [
+      "🦌",
+      "🌲",
+      "🔥"
+    ],
+    "Band of Brothers": [
+      "🪖",
+      "🪂",
+      "🇺🇸"
+    ],
+    "Batman Begins": [
+      "🦇",
+      "🌃",
+      "😱"
+    ],
+    "Beauty and the Beast": [
+      "🌹",
+      "🏰",
+      "🫖"
+    ],
+    "Beetlejuice": [
+      "👻",
+      "🪲",
+      "🖤"
+    ],
+    "Ben-Hur": [
+      "🏇",
+      "⚔️",
+      "⛓️"
+    ],
+    "Better Call Saul": [
+      "⚖️",
+      "📞",
+      "💼"
+    ],
+    "Beverly Hills Cop": [
+      "🚔",
+      "😂",
+      "🌴"
+    ],
+    "Big Hero 6": [
+      "🤖",
+      "🎈",
+      "🦸"
+    ],
+    "Bird Box": [
+      "🙈",
+      "📦",
+      "👹"
+    ],
+    "Birdman": [
+      "🦅",
+      "🎭",
+      "🥁"
+    ],
+    "Black Hawk Down": [
+      "🚁",
+      "💥",
+      "🪖"
+    ],
+    "Black Mirror": [
+      "📱",
+      "🖥️",
+      "😱"
+    ],
+    "Black Widow": [
+      "🕷️",
+      "🩰",
+      "💥"
+    ],
+    "Blade Runner": [
+      "🌧️",
+      "🤖",
+      "🦄"
+    ],
+    "Blue Beetle": [
+      "🪲",
+      "💙",
+      "🦸"
+    ],
+    "Bottoms": [
+      "🤼",
+      "😂",
+      "🏫"
+    ],
+    "Brave": [
+      "🏹",
+      "🐻",
+      "👩‍🦰"
+    ],
+    "Braveheart": [
+      "⚔️",
+      "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+      "🎨"
+    ],
+    "Bridgerton": [
+      "💃",
+      "💌",
+      "👑"
+    ],
+    "Brooklyn Nine-Nine": [
+      "🚔",
+      "😂",
+      "🍩"
+    ],
+    "Casablanca": [
+      "✈️",
+      "🍸",
+      "❤️"
+    ],
+    "Cars": [
+      "🏎️",
+      "⚡",
+      "🏁"
+    ],
+    "Casino": [
+      "🎰",
+      "💰",
+      "🃏"
+    ],
+    "Cast Away": [
+      "🏝️",
+      "🏐",
+      "✈️"
+    ],
+    "Catch Me If You Can": [
+      "✈️",
+      "💵",
+      "🕵️"
+    ],
+    "Chernobyl": [
+      "☢️",
+      "💥",
+      "⚠️"
+    ],
+    "Cinderella": [
+      "👠",
+      "🎃",
+      "✨"
+    ],
+    "Citizen Kane": [
+      "📰",
+      "🛷",
+      "🏰"
+    ],
+    "Cobra Kai": [
+      "🥋",
+      "🐍",
+      "👊"
+    ],
+    "Creed": [
+      "🥊",
+      "💪",
+      "🔔"
+    ],
+    "Dark": [
+      "⏳",
+      "🌀",
+      "🕳️"
+    ],
+    "Dead Poets Society": [
+      "📖",
+      "🎭",
+      "🍂"
+    ],
+    "Deadpool": [
+      "💀",
+      "🌮",
+      "🗡️"
+    ],
+    "Death Note": [
+      "📓",
+      "💀",
+      "🍎"
+    ],
+    "Demon Slayer": [
+      "⚔️",
+      "👹",
+      "🔥"
+    ],
+    "Despicable Me": [
+      "🍌",
+      "😈",
+      "👧"
+    ],
+    "Despicable Me 4": [
+      "🍌",
+      "😈",
+      "🦹"
+    ],
+    "Dexter": [
+      "🔪",
+      "🩸",
+      "🔬"
+    ],
+    "Die Hard": [
+      "🏢",
+      "💥",
+      "🎄"
+    ],
+    "Divergent": [
+      "🔥",
+      "🏙️",
+      "🔀"
+    ],
+    "Django Unchained": [
+      "🤠",
+      "⛓️",
+      "🔫"
+    ],
+    "Don't Look Up": [
+      "☄️",
+      "📰",
+      "🌍"
+    ],
+    "Downton Abbey": [
+      "🏰",
+      "🫖",
+      "👑"
+    ],
+    "Dragon Ball Z": [
+      "🐉",
+      "💥",
+      "💛"
+    ],
+    "Dream Scenario": [
+      "💤",
+      "😱",
+      "🧑‍🏫"
+    ],
+    "Dumbo": [
+      "🐘",
+      "🎪",
+      "🪶"
+    ],
+    "Dunkirk": [
+      "🏖️",
+      "✈️",
+      "🚢"
+    ],
+    "Dungeons and Dragons": [
+      "🐉",
+      "🎲",
+      "⚔️"
+    ],
+    "Edward Scissorhands": [
+      "✂️",
+      "🧊",
+      "🏡"
+    ],
+    "Elf": [
+      "🧝",
+      "🎄",
+      "🍝"
+    ],
+    "Emily in Paris": [
+      "🗼",
+      "👠",
+      "📱"
+    ],
+    "Eternal Sunshine of the Spotless Mind": [
+      "🧠",
+      "💔",
+      "❄️"
+    ],
+    "Eternals": [
+      "🌍",
+      "⚡",
+      "🛸"
+    ],
+    "Euphoria": [
+      "💊",
+      "🎆",
+      "💄"
+    ],
+    "Everything Everywhere All at Once": [
+      "🥯",
+      "🌀",
+      "👩"
+    ],
+    "Extraction": [
+      "💥",
+      "🔫",
+      "🌉"
+    ],
+    "Fallout": [
+      "☢️",
+      "🏚️",
+      "🤖"
+    ],
+    "Ferris Bueller's Day Off": [
+      "🏎️",
+      "🎤",
+      "🏫"
+    ],
+    "Fleabag": [
+      "🦊",
+      "📸",
+      "💔"
+    ],
+    "Fly Me to the Moon": [
+      "🌙",
+      "🚀",
+      "🎬"
+    ],
+    "Free Guy": [
+      "🎮",
+      "🦸",
+      "😎"
+    ],
+    "Full Metal Jacket": [
+      "🪖",
+      "🔫",
+      "💀"
+    ],
+    "Fullmetal Alchemist": [
+      "⚙️",
+      "🦾",
+      "🔴"
+    ],
+    "Gladiator II": [
+      "⚔️",
+      "🏟️",
+      "🦁"
+    ],
+    "Glass Onion": [
+      "🧅",
+      "🔍",
+      "🏝️"
+    ],
+    "Gone Girl": [
+      "😈",
+      "📰",
+      "💍"
+    ],
+    "Gone with the Wind": [
+      "🌬️",
+      "👗",
+      "🏚️"
+    ],
+    "Good Will Hunting": [
+      "🧮",
+      "🧠",
+      "🪞"
+    ],
+    "Goodfellas": [
+      "🔫",
+      "🍝",
+      "💰"
+    ],
+    "Goodnight Mommy": [
+      "🩹",
+      "👩‍👦",
+      "😱"
+    ],
+    "Grease": [
+      "🏎️",
+      "🎤",
+      "💃"
+    ],
+    "Grey's Anatomy": [
+      "🏥",
+      "🩺",
+      "💔"
+    ],
+    "Groundhog Day": [
+      "⏰",
+      "🦫",
+      "🔁"
+    ],
+    "Guardians of the Galaxy Vol 3": [
+      "🦝",
+      "🌳",
+      "🚀"
+    ],
+    "Hacksaw Ridge": [
+      "⛑️",
+      "🙏",
+      "🪖"
+    ],
+    "Halloween": [
+      "🎃",
+      "🔪",
+      "👻"
+    ],
+    "Hamilton": [
+      "📜",
+      "🎵",
+      "⭐"
+    ],
+    "Haunting of Hill House": [
+      "🏚️",
+      "👻",
+      "😱"
+    ],
+    "Her": [
+      "💻",
+      "❤️",
+      "🎧"
+    ],
+    "Heretic": [
+      "⛪",
+      "😈",
+      "🔒"
+    ],
+    "Hereditary": [
+      "👻",
+      "😱",
+      "👑"
+    ],
+    "Horizon An American Saga": [
+      "🤠",
+      "🏜️",
+      "🐎"
+    ],
+    "House of Cards": [
+      "🏛️",
+      "🃏",
+      "🇺🇸"
+    ],
+    "How I Met Your Mother": [
+      "☂️",
+      "📯",
+      "💛"
+    ],
+    "Ice Age": [
+      "🦣",
+      "🧊",
+      "🌰"
+    ],
+    "Indiana Jones": [
+      "🤠",
+      "🐍",
+      "🗺️"
+    ],
+    "Indiana Jones and the Dial of Destiny": [
+      "🤠",
+      "⏱️",
+      "🗺️"
+    ],
+    "Inglourious Basterds": [
+      "🔫",
+      "🎬",
+      "🔥"
+    ],
+    "Invincible": [
+      "🦸",
+      "💥",
+      "🩸"
+    ],
+    "It Ends with Us": [
+      "🌸",
+      "💔",
+      "📖"
+    ],
+    "Jack Ryan": [
+      "🕵️",
+      "💣",
+      "🇺🇸"
+    ],
+    "James Bond": [
+      "🍸",
+      "🔫",
+      "🕴️"
+    ],
+    "Jujutsu Kaisen": [
+      "👹",
+      "✊",
+      "🔮"
+    ],
+    "Jumanji": [
+      "🎲",
+      "🌴",
+      "🦁"
+    ],
+    "Jurassic World": [
+      "🦖",
+      "🦕",
+      "🏝️"
+    ],
+    "Kinds of Kindness": [
+      "🎭",
+      "🐟",
+      "😵"
+    ],
+    "Kung Fu Panda 4": [
+      "🐼",
+      "🥋",
+      "🐉"
+    ],
+    "Lady and the Tramp": [
+      "🐕",
+      "🍝",
+      "💕"
+    ],
+    "Lawrence of Arabia": [
+      "🏜️",
+      "🐪",
+      "⚔️"
+    ],
+    "Legally Blonde": [
+      "💅",
+      "💗",
+      "⚖️"
+    ],
+    "Leon: The Professional": [
+      "🔫",
+      "🌱",
+      "🕶️"
+    ],
+    "Lethal Weapon": [
+      "🔫",
+      "🚔",
+      "💥"
+    ],
+    "Life of Pi": [
+      "🐅",
+      "⛵",
+      "🌊"
+    ],
+    "Lightyear": [
+      "🚀",
+      "👨‍🚀",
+      "🐱"
+    ],
+    "Little Women": [
+      "📖",
+      "✍️",
+      "👩‍👩‍👧‍👧"
+    ],
+    "Logan": [
+      "🐺",
+      "🗡️",
+      "👧"
+    ],
+    "Loki": [
+      "🐍",
+      "⏳",
+      "🌀"
+    ],
+    "Longlegs": [
+      "😈",
+      "📝",
+      "🔍"
+    ],
+    "Lost": [
+      "🏝️",
+      "✈️",
+      "🔢"
+    ],
+    "Lucifer": [
+      "😈",
+      "🔥",
+      "🕵️"
+    ],
+    "Lupin": [
+      "🎩",
+      "💎",
+      "🕵️"
+    ],
+    "Léon the Professional": [
+      "🔫",
+      "🌱",
+      "🕶️"
+    ],
+    "Mad Max: Fury Road": [
+      "🏎️",
+      "🔥",
+      "🏜️"
+    ],
+    "Madagascar": [
+      "🦁",
+      "🏝️",
+      "🦓"
+    ],
+    "Maestro": [
+      "🎵",
+      "🎻",
+      "💔"
+    ],
+    "Mamma Mia": [
+      "🎵",
+      "🏝️",
+      "💃"
+    ],
+    "Mare of Easttown": [
+      "🔍",
+      "🏘️",
+      "🚔"
+    ],
+    "Maria": [
+      "🎤",
+      "🎶",
+      "💔"
+    ],
+    "Marriage Story": [
+      "💔",
+      "⚖️",
+      "👦"
+    ],
+    "Matilda": [
+      "📚",
+      "✨",
+      "🍫"
+    ],
+    "May December": [
+      "🎬",
+      "🔍",
+      "😬"
+    ],
+    "Maze Runner": [
+      "🏃",
+      "🌿",
+      "🧱"
+    ],
+    "Mean Girls": [
+      "💅",
+      "📖",
+      "🏫"
+    ],
+    "Megamind": [
+      "🧠",
+      "💙",
+      "🦹"
+    ],
+    "Memento": [
+      "📸",
+      "🔄",
+      "🧠"
+    ],
+    "Midsommar": [
+      "🌸",
+      "☀️",
+      "🇸🇪"
+    ],
+    "Mindhunter": [
+      "🧠",
+      "🔍",
+      "😈"
+    ],
+    "Minions": [
+      "🍌",
+      "💛",
+      "😂"
+    ],
+    "Mission Impossible Dead Reckoning": [
+      "💣",
+      "🏃",
+      "🔑"
+    ],
+    "Monsters Inc": [
+      "👹",
+      "🚪",
+      "😱"
+    ],
+    "Moonlight": [
+      "🌙",
+      "🌊",
+      "💙"
+    ],
+    "Mr. Robot": [
+      "💻",
+      "🎭",
+      "🏢"
+    ],
+    "Mulan": [
+      "⚔️",
+      "🐉",
+      "🌸"
+    ],
+    "My Neighbor Totoro": [
+      "🌳",
+      "☂️",
+      "🐱"
+    ],
+    "Naruto": [
+      "🍥",
+      "🥷",
+      "🦊"
+    ],
+    "National Treasure": [
+      "🗺️",
+      "💰",
+      "📜"
+    ],
+    "Nemo": [
+      "🐠",
+      "🌊",
+      "🐢"
+    ],
+    "Nickel Boys": [
+      "📖",
+      "⛓️",
+      "😢"
+    ],
+    "No Country for Old Men": [
+      "💀",
+      "🔫",
+      "💰"
+    ],
+    "North by Northwest": [
+      "✈️",
+      "🗿",
+      "🚂"
+    ],
+    "Ocean's Eleven": [
+      "🎰",
+      "💰",
+      "🕴️"
+    ],
+    "One Piece": [
+      "🏴‍☠️",
+      "⛵",
+      "💎"
+    ],
+    "Only Murders in the Building": [
+      "🔍",
+      "🎙️",
+      "🏢"
+    ],
+    "Outer Banks": [
+      "🏴‍☠️",
+      "💰",
+      "🏖️"
+    ],
+    "Ozark": [
+      "💰",
+      "🏞️",
+      "🔫"
+    ],
+    "Pacific Rim": [
+      "🤖",
+      "👾",
+      "🌊"
+    ],
+    "Paddington": [
+      "🐻",
+      "🧳",
+      "🍊"
+    ],
+    "Parks and Recreation": [
+      "🏛️",
+      "🌳",
+      "🧇"
+    ],
+    "Planet of the Apes": [
+      "🦍",
+      "🗽",
+      "🌍"
+    ],
+    "Platoon": [
+      "🪖",
+      "🌿",
+      "💀"
+    ],
+    "Pocahontas": [
+      "🍂",
+      "🌊",
+      "🐺"
+    ],
+    "Predator": [
+      "👽",
+      "🌴",
+      "🔫"
+    ],
+    "Pride and Prejudice": [
+      "💌",
+      "🏰",
+      "💕"
+    ],
+    "Princess Mononoke": [
+      "🐺",
+      "🌲",
+      "🏹"
+    ],
+    "Priscilla": [
+      "👗",
+      "💔",
+      "🏰"
+    ],
+    "Psycho": [
+      "🚿",
+      "🔪",
+      "🏚️"
+    ],
+    "Queer": [
+      "❤️",
+      "🏙️",
+      "💊"
+    ],
+    "Ralph Breaks the Internet": [
+      "👊",
+      "🌐",
+      "🎮"
+    ],
+    "Ready Player One": [
+      "🎮",
+      "🔑",
+      "🕶️"
+    ],
+    "Reacher": [
+      "💪",
+      "🔍",
+      "👊"
+    ],
+    "Rear Window": [
+      "🔭",
+      "🪟",
+      "📸"
+    ],
+    "Rebel Moon": [
+      "🌙",
+      "⚔️",
+      "🛸"
+    ],
+    "Robocop": [
+      "🤖",
+      "🔫",
+      "🚔"
+    ],
+    "Rustin": [
+      "✊",
+      "📢",
+      "🇺🇸"
+    ],
+    "Saving Private Ryan": [
+      "🪖",
+      "🏖️",
+      "🇺🇸"
+    ],
+    "Scarface": [
+      "💰",
+      "🔫",
+      "💊"
+    ],
+    "Scream": [
+      "😱",
+      "🔪",
+      "📞"
+    ],
+    "Se7en": [
+      "🔫",
+      "📦",
+      "7️⃣"
+    ],
+    "Severance": [
+      "🧠",
+      "🏢",
+      "✂️"
+    ],
+    "Sex Education": [
+      "🏫",
+      "🍆",
+      "💕"
+    ],
+    "Shang-Chi": [
+      "🐉",
+      "💍",
+      "🥋"
+    ],
+    "Shazam": [
+      "⚡",
+      "🦸",
+      "👦"
+    ],
+    "Sherlock": [
+      "🔍",
+      "🎻",
+      "🧪"
+    ],
+    "Shogun": [
+      "⚔️",
+      "🇯🇵",
+      "🏯"
+    ],
+    "Shrek 2": [
+      "🟢",
+      "🧅",
+      "🐱"
+    ],
+    "Shutter Island": [
+      "🏝️",
+      "🔍",
+      "😵"
+    ],
+    "Sing": [
+      "🎤",
+      "🎵",
+      "🐨"
+    ],
+    "Sing Sing": [
+      "🎭",
+      "⛓️",
+      "🏛️"
+    ],
+    "Singin' in the Rain": [
+      "🌧️",
+      "💃",
+      "🎵"
+    ],
+    "Sleeping Beauty": [
+      "😴",
+      "🌹",
+      "🧚"
+    ],
+    "Slow Horses": [
+      "🐴",
+      "🕵️",
+      "🇬🇧"
+    ],
+    "Slumdog Millionaire": [
+      "💰",
+      "🇮🇳",
+      "❓"
+    ],
+    "Snow White": [
+      "🍎",
+      "🪞",
+      "👸"
+    ],
+    "Society of the Snow": [
+      "✈️",
+      "❄️",
+      "🏔️"
+    ],
+    "Some Like It Hot": [
+      "🎷",
+      "👗",
+      "😂"
+    ],
+    "Speed": [
+      "🚌",
+      "💣",
+      "⏱️"
+    ],
+    "Spirited Away": [
+      "🏚️",
+      "🐉",
+      "🛁"
+    ],
+    "Spotlight": [
+      "📰",
+      "⛪",
+      "🔍"
+    ],
+    "Squid Game Season 2": [
+      "🦑",
+      "🔴",
+      "💀"
+    ],
+    "Stranger Things Season 4": [
+      "🙃",
+      "⏱️",
+      "🔦"
+    ],
+    "Suits": [
+      "⚖️",
+      "👔",
+      "🏙️"
+    ],
+    "Superman": [
+      "🦸",
+      "💪",
+      "🔴"
+    ],
+    "Tangled": [
+      "👸",
+      "💇",
+      "🏰"
+    ],
+    "Tarzan": [
+      "🦍",
+      "🌴",
+      "🧔"
+    ],
+    "Taxi Driver": [
+      "🚕",
+      "🔫",
+      "🌃"
+    ],
+    "Ted Lasso": [
+      "⚽",
+      "🥸",
+      "🍪"
+    ],
+    "Tenet": [
+      "⏳",
+      "🔄",
+      "💣"
+    ],
+    "The Accountant": [
+      "🔢",
+      "🔫",
+      "💼"
+    ],
+    "The Apprentice": [
+      "🏛️",
+      "💰",
+      "⚖️"
+    ],
+    "The Aristocats": [
+      "🐱",
+      "🎹",
+      "🇫🇷"
+    ],
+    "The Batman": [
+      "🦇",
+      "🌧️",
+      "🔍"
+    ],
+    "The Big Bang Theory": [
+      "🔭",
+      "🧪",
+      "🤓"
+    ],
+    "The Big Short": [
+      "📉",
+      "💰",
+      "🏠"
+    ],
+    "The Breakfast Club": [
+      "🏫",
+      "👊",
+      "🧠"
+    ],
+    "The Creator": [
+      "🤖",
+      "💣",
+      "👧"
+    ],
+    "The Departed": [
+      "🔫",
+      "🐀",
+      "🚔"
+    ],
+    "The Exorcist": [
+      "😈",
+      "✝️",
+      "😱"
+    ],
+    "The Fabelmans": [
+      "🎬",
+      "📷",
+      "👨‍👩‍👦"
+    ],
+    "The Fall Guy": [
+      "🎬",
+      "💥",
+      "🏍️"
+    ],
+    "The Flash": [
+      "⚡",
+      "🏃",
+      "⏳"
+    ],
+    "The Garfield Movie": [
+      "🐱",
+      "🍝",
+      "😴"
+    ],
+    "The Gentlemen": [
+      "🎩",
+      "🌿",
+      "🔫"
+    ],
+    "The Godfather Part II": [
+      "🍊",
+      "🔫",
+      "👑"
+    ],
+    "The Grand Budapest Hotel": [
+      "🏨",
+      "🩷",
+      "🗝️"
+    ],
+    "The Great Gatsby": [
+      "🥂",
+      "💚",
+      "🎉"
+    ],
+    "The Grinch": [
+      "💚",
+      "🎄",
+      "😤"
+    ],
+    "The Handmaid's Tale": [
+      "👁️",
+      "🔴",
+      "✊"
+    ],
+    "The Hangover": [
+      "🍺",
+      "🐅",
+      "👶"
+    ],
+    "The Imitation Game": [
+      "💻",
+      "🧩",
+      "🔐"
+    ],
+    "The Iron Claw": [
+      "🤼",
+      "💪",
+      "😢"
+    ],
+    "The Italian Job": [
+      "🚗",
+      "💰",
+      "🇮🇹"
+    ],
+    "The Jungle Book": [
+      "🐻",
+      "🐍",
+      "🌴"
+    ],
+    "The Karate Kid": [
+      "🥋",
+      "🏆",
+      "🧹"
+    ],
+    "The Killer": [
+      "🔫",
+      "🎯",
+      "😐"
+    ],
+    "The King's Speech": [
+      "👑",
+      "🎤",
+      "🇬🇧"
+    ],
+    "The Lego Movie": [
+      "🧱",
+      "👷",
+      "⭐"
+    ],
+    "The Little Mermaid": [
+      "🧜‍♀️",
+      "🌊",
+      "🐠"
+    ],
+    "The Little Mermaid (2023)": [
+      "🧜‍♀️",
+      "🌊",
+      "🎤"
+    ],
+    "The Martian": [
+      "🚀",
+      "🥔",
+      "🔴"
+    ],
+    "The Maze Runner": [
+      "🏃",
+      "🌿",
+      "🧱"
+    ],
+    "The Office": [
+      "🏢",
+      "📎",
+      "😂"
+    ],
+    "The Pianist": [
+      "🎹",
+      "🇵🇱",
+      "😢"
+    ],
+    "The Polar Express": [
+      "🚂",
+      "🎄",
+      "🔔"
+    ],
+    "The Prestige": [
+      "🎩",
+      "✨",
+      "👯"
+    ],
+    "The Princess Bride": [
+      "⚔️",
+      "💕",
+      "👸"
+    ],
+    "The Room Next Door": [
+      "🚪",
+      "💔",
+      "🏥"
+    ],
+    "The Secret Life of Pets": [
+      "🐕",
+      "🐱",
+      "🏙️"
+    ],
+    "The Shape of Water": [
+      "🐟",
+      "💧",
+      "💚"
+    ],
+    "The Sixth Sense": [
+      "👻",
+      "👦",
+      "😱"
+    ],
+    "The Terminator": [
+      "🤖",
+      "🔫",
+      "💀"
+    ],
+    "The Theory of Everything": [
+      "🧑‍🦽",
+      "🌌",
+      "💕"
+    ],
+    "The Umbrella Academy": [
+      "☂️",
+      "🦸",
+      "⏳"
+    ],
+    "The Walking Dead": [
+      "🧟",
+      "🔫",
+      "🏚️"
+    ],
+    "The Whale": [
+      "🐋",
+      "🍕",
+      "😢"
+    ],
+    "The Witcher Season 2": [
+      "⚔️",
+      "🧙",
+      "👹"
+    ],
+    "The Wolf of Wall Street": [
+      "💰",
+      "📈",
+      "🐺"
+    ],
+    "There Will Be Blood": [
+      "🛢️",
+      "💰",
+      "🔥"
+    ],
+    "Titanic 2": [
+      "🚢",
+      "🧊",
+      "💔"
+    ],
+    "Titanic II": [
+      "🚢",
+      "🧊",
+      "💔"
+    ],
+    "Tomb Raider": [
+      "🏛️",
+      "🔫",
+      "🗺️"
+    ],
+    "Total Recall": [
+      "🧠",
+      "🔴",
+      "🔫"
+    ],
+    "Transformers": [
+      "🤖",
+      "🚗",
+      "💥"
+    ],
+    "Trap": [
+      "🎵",
+      "🔫",
+      "🚔"
+    ],
+    "Triangle of Sadness": [
+      "🛥️",
+      "🤮",
+      "🏝️"
+    ],
+    "Tron": [
+      "💻",
+      "🏍️",
+      "🔵"
+    ],
+    "True Detective": [
+      "🔍",
+      "😈",
+      "🌿"
+    ],
+    "Umbrella Academy": [
+      "☂️",
+      "🦸",
+      "⏳"
+    ],
+    "Vertigo": [
+      "🌀",
+      "🏢",
+      "💔"
+    ],
+    "Vikings": [
+      "⚔️",
+      "🛡️",
+      "⛵"
+    ],
+    "WandaVision": [
+      "📺",
+      "❤️",
+      "✨"
+    ],
+    "We Live in Time": [
+      "⏳",
+      "💕",
+      "🏥"
+    ],
+    "West Side Story": [
+      "💃",
+      "🗡️",
+      "❤️"
+    ],
+    "Westworld": [
+      "🤖",
+      "🤠",
+      "🧠"
+    ],
+    "White Lotus": [
+      "🏨",
+      "🌺",
+      "💀"
+    ],
+    "Willy Wonka": [
+      "🍫",
+      "🏭",
+      "🎩"
+    ],
+    "Wish": [
+      "⭐",
+      "✨",
+      "🪄"
+    ],
+    "Wreck-It Ralph": [
+      "👊",
+      "🎮",
+      "🍬"
+    ],
+    "X-Men": [
+      "🧬",
+      "⚡",
+      "🦸"
+    ],
+    "Yellowstone": [
+      "🐎",
+      "🏔️",
+      "🤠"
+    ],
+    "You": [
+      "📚",
+      "🔪",
+      "👀"
+    ],
+    "Your Name": [
+      "☄️",
+      "🎀",
+      "💕"
+    ],
+    "Zodiac": [
+      "🔍",
+      "✉️",
+      "💀"
+    ],
+    "10 Things I Hate About You": [
+      "💕",
+      "🏫",
+      "📝"
+    ],
+    "101 Dalmatians": [
+      "🐕‍🦺",
+      "🐾",
+      "🦹‍♀️"
+    ],
+    "Leave the World Behind": [
+      "📵",
+      "🏠"
+    ],
+    "Us": [
+      "✂️",
+      "👯"
+    ],
+    "Elemental": [
+      "🔥",
+      "💧"
+    ],
+    "Monsters, Inc.": [
+      "👹",
+      "🚪"
+    ],
+    "Babygirl": [
+      "👩‍💼",
+      "🤫"
+    ],
+    "Puss in Boots": [
+      "🐱",
+      "👢"
+    ],
+    "Talk to Me": [
+      "✋",
+      "👻"
+    ],
+    "Seinfeld": [
+      "☕",
+      "🗽"
+    ],
+    "Ferrari": [
+      "🏎️",
+      "🏁"
+    ],
+    "September 5": [
+      "📺",
+      "🏟️"
+    ],
+    "Fargo": [
+      "❄️",
+      "💰"
+    ],
+    "Charlie and the Chocolate Factory": [
+      "🍫",
+      "🏭"
+    ]
+  },
+  "Titanic": [
+    "ship",
+    "love",
+    "ice",
+    "ocean",
+    "death"
+  ],
+  "The Lion King": [
+    "lion",
+    "royalty",
+    "family",
+    "fight",
+    "nature"
+  ],
+  "Jurassic Park": [
+    "dinosaur",
+    "science",
+    "island",
+    "scared",
+    "speed"
+  ],
+  "Finding Nemo": [
+    "fish",
+    "ocean",
+    "family",
+    "child",
+    "scared"
+  ],
+  "The Matrix": [
+    "robot",
+    "fight",
+    "dream",
+    "gun",
+    "computer"
+  ],
+  "Frozen": [
+    "snow",
+    "magic",
+    "royalty",
+    "sing",
+    "love"
+  ],
+  "Star Wars": [
+    "space",
+    "sword",
+    "fight",
+    "hero",
+    "villain"
+  ],
+  "Toy Story": [
+    "child",
+    "family",
+    "hero",
+    "house",
+    "speed"
+  ],
+  "Inception": [
+    "dream",
+    "time",
+    "city",
+    "gun",
+    "brain"
+  ],
+  "The Shawshank Redemption": [
+    "prison",
+    "freedom",
+    "sad",
+    "book",
+    "prison_escape"
+  ],
+  "Forrest Gump": [
+    "speed",
+    "love",
+    "war",
+    "hero",
+    "happy"
+  ],
+  "The Godfather": [
+    "gun",
+    "family",
+    "money",
+    "death",
+    "angry"
+  ],
+  "Harry Potter": [
+    "magic",
+    "school",
+    "fight",
+    "villain",
+    "hero"
+  ],
+  "The Dark Knight": [
+    "hero",
+    "villain",
+    "city",
+    "explosion",
+    "fight"
+  ],
+  "Avengers": [
+    "hero",
+    "fight",
+    "space",
+    "explosion",
+    "power"
+  ],
+  "Up": [
+    "fly",
+    "house",
+    "child",
+    "old",
+    "sad"
+  ],
+  "WALL-E": [
+    "robot",
+    "space",
+    "love",
+    "nature",
+    "city"
+  ],
+  "Coco": [
+    "music",
+    "death",
+    "family",
+    "magic",
+    "cry"
+  ],
+  "Ratatouille": [
+    "cooking",
+    "food",
+    "animal",
+    "city",
+    "art"
+  ],
+  "Spider-Man": [
+    "hero",
+    "city",
+    "love",
+    "fight",
+    "power"
+  ],
+  "The Wizard of Oz": [
+    "magic",
+    "witch",
+    "dog",
+    "house",
+    "jewel"
+  ],
+  "E.T.": [
+    "space",
+    "child",
+    "fly",
+    "phone",
+    "scared"
+  ],
+  "Jaws": [
+    "fish",
+    "ocean",
+    "scared",
+    "death",
+    "fight"
+  ],
+  "Ghostbusters": [
+    "ghost",
+    "city",
+    "hero",
+    "laugh",
+    "science"
+  ],
+  "Back to the Future": [
+    "time",
+    "car",
+    "science",
+    "speed",
+    "family"
+  ],
+  "Gladiator": [
+    "fight",
+    "royalty",
+    "death",
+    "angry",
+    "sword"
+  ],
+  "The Silence of the Lambs": [
+    "mystery",
+    "scared",
+    "villain",
+    "prison",
+    "brain"
+  ],
+  "Schindler's List": [
+    "war",
+    "death",
+    "sad",
+    "hero",
+    "freedom"
+  ],
+  "Fight Club": [
+    "fight",
+    "angry",
+    "brain",
+    "explosion",
+    "villain"
+  ],
+  "Pulp Fiction": [
+    "gun",
+    "money",
+    "food",
+    "dance",
+    "death"
+  ],
+  "The Truman Show": [
+    "film",
+    "house",
+    "city",
+    "freedom",
+    "scared"
+  ],
+  "Interstellar": [
+    "space",
+    "time",
+    "family",
+    "love",
+    "science"
+  ],
+  "Gravity": [
+    "space",
+    "scared",
+    "explosion",
+    "freedom",
+    "cry"
+  ],
+  "The Revenant": [
+    "nature",
+    "bear",
+    "snow",
+    "fight",
+    "death"
+  ],
+  "Mad Max Fury Road": [
+    "desert",
+    "car",
+    "fight",
+    "explosion",
+    "speed"
+  ],
+  "Parasite": [
+    "house",
+    "money",
+    "family",
+    "angry",
+    "death"
+  ],
+  "Joker": [
+    "villain",
+    "dance",
+    "city",
+    "angry",
+    "sad"
+  ],
+  "Black Panther": [
+    "hero",
+    "royalty",
+    "fight",
+    "power",
+    "family"
+  ],
+  "Wonder Woman": [
+    "hero",
+    "war",
+    "sword",
+    "love",
+    "power"
+  ],
+  "Moana": [
+    "ocean",
+    "island",
+    "magic",
+    "sing",
+    "hero"
+  ],
+  "Zootopia": [
+    "animal",
+    "city",
+    "mystery",
+    "hero",
+    "laugh"
+  ],
+  "Inside Out": [
+    "brain",
+    "sad",
+    "happy",
+    "angry",
+    "scared"
+  ],
+  "Soul": [
+    "music",
+    "death",
+    "brain",
+    "magic",
+    "happy"
+  ],
+  "Encanto": [
+    "magic",
+    "family",
+    "house",
+    "sing",
+    "sad"
+  ],
+  "Luca": [
+    "ocean",
+    "child",
+    "food",
+    "nature",
+    "love"
+  ],
+  "Turning Red": [
+    "child",
+    "angry",
+    "family",
+    "music",
+    "magic"
+  ],
+  "The Incredibles": [
+    "hero",
+    "family",
+    "villain",
+    "fight",
+    "speed"
+  ],
+  "Shrek": [
+    "monster",
+    "love",
+    "royalty",
+    "dragon",
+    "laugh"
+  ],
+  "Kung Fu Panda": [
+    "fight",
+    "animal",
+    "food",
+    "hero",
+    "magic"
+  ],
+  "How to Train Your Dragon": [
+    "dragon",
+    "child",
+    "fly",
+    "fight",
+    "love"
+  ],
+  "Avatar": [
+    "nature",
+    "war",
+    "fly",
+    "love",
+    "space"
+  ],
+  "Dune": [
+    "desert",
+    "worm",
+    "fight",
+    "royalty",
+    "power"
+  ],
+  "The Lord of the Rings": [
+    "ring",
+    "fight",
+    "magic",
+    "mountain",
+    "hero"
+  ],
+  "Pirates of the Caribbean": [
+    "pirate",
+    "ocean",
+    "treasure",
+    "sword",
+    "ghost"
+  ],
+  "Iron Man": [
+    "hero",
+    "robot",
+    "explosion",
+    "science",
+    "villain"
+  ],
+  "Thor": [
+    "power",
+    "magic",
+    "royalty",
+    "fight",
+    "space"
+  ],
+  "Captain America": [
+    "hero",
+    "war",
+    "fight",
+    "freedom",
+    "ice"
+  ],
+  "Guardians of the Galaxy": [
+    "space",
+    "fight",
+    "music",
+    "laugh",
+    "hero"
+  ],
+  "Doctor Strange": [
+    "magic",
+    "time",
+    "doctor",
+    "brain",
+    "fight"
+  ],
+  "Ant-Man": [
+    "bug",
+    "hero",
+    "science",
+    "family",
+    "laugh"
+  ],
+  "Black Widow": [
+    "spy",
+    "fight",
+    "family",
+    "gun",
+    "hero"
+  ],
+  "Eternals": [
+    "space",
+    "time",
+    "power",
+    "fight",
+    "death"
+  ],
+  "Shang-Chi": [
+    "fight",
+    "dragon",
+    "family",
+    "ring",
+    "magic"
+  ],
+  "The Batman": [
+    "mystery",
+    "city",
+    "fight",
+    "villain",
+    "scared"
+  ],
+  "Aquaman": [
+    "ocean",
+    "royalty",
+    "fight",
+    "power",
+    "sword"
+  ],
+  "The Hunger Games": [
+    "fight",
+    "nature",
+    "fire",
+    "love",
+    "death"
+  ],
+  "Divergent": [
+    "city",
+    "fight",
+    "brain",
+    "hero",
+    "train"
+  ],
+  "Maze Runner": [
+    "speed",
+    "scared",
+    "fight",
+    "prison_escape",
+    "monster"
+  ],
+  "John Wick": [
+    "gun",
+    "dog",
+    "fight",
+    "death",
+    "angry"
+  ],
+  "Mission Impossible": [
+    "spy",
+    "explosion",
+    "speed",
+    "fight",
+    "plane"
+  ],
+  "James Bond": [
+    "spy",
+    "gun",
+    "car",
+    "love",
+    "villain"
+  ],
+  "Fast and Furious": [
+    "car",
+    "speed",
+    "family",
+    "explosion",
+    "fight"
+  ],
+  "Rocky": [
+    "fight",
+    "sports",
+    "hero",
+    "love",
+    "happy"
+  ],
+  "Creed": [
+    "fight",
+    "sports",
+    "family",
+    "hero",
+    "sad"
+  ],
+  "Top Gun": [
+    "plane",
+    "speed",
+    "hero",
+    "love",
+    "fight"
+  ],
+  "A Star Is Born": [
+    "music",
+    "love",
+    "sad",
+    "sing",
+    "death"
+  ],
+  "La La Land": [
+    "music",
+    "dance",
+    "love",
+    "city",
+    "sad"
+  ],
+  "Bohemian Rhapsody": [
+    "music",
+    "sing",
+    "love",
+    "sad",
+    "hero"
+  ],
+  "Whiplash": [
+    "music",
+    "angry",
+    "scared",
+    "hero",
+    "fight"
+  ],
+  "The Greatest Showman": [
+    "music",
+    "dance",
+    "love",
+    "magic",
+    "happy"
+  ],
+  "Les Miserables": [
+    "sing",
+    "war",
+    "sad",
+    "freedom",
+    "death"
+  ],
+  "Hamilton": [
+    "music",
+    "war",
+    "love",
+    "death",
+    "freedom"
+  ],
+  "West Side Story": [
+    "music",
+    "dance",
+    "love",
+    "fight",
+    "death"
+  ],
+  "Grease": [
+    "music",
+    "dance",
+    "love",
+    "car",
+    "school"
+  ],
+  "Mamma Mia": [
+    "music",
+    "dance",
+    "love",
+    "island",
+    "happy"
+  ],
+  "The Notebook": [
+    "love",
+    "old",
+    "rain",
+    "sad",
+    "cry"
+  ],
+  "Romeo and Juliet": [
+    "love",
+    "sword",
+    "death",
+    "sad",
+    "family"
+  ],
+  "Pride and Prejudice": [
+    "love",
+    "book",
+    "dance",
+    "house",
+    "angry"
+  ],
+  "The Fault in Our Stars": [
+    "love",
+    "sad",
+    "book",
+    "cry",
+    "death"
+  ],
+  "Me Before You": [
+    "love",
+    "sad",
+    "cry",
+    "freedom",
+    "happy"
+  ],
+  "To All the Boys": [
+    "love",
+    "school",
+    "book",
+    "happy",
+    "child"
+  ],
+  "Twilight": [
+    "vampire",
+    "love",
+    "nature",
+    "fight",
+    "family"
+  ],
+  "The Conjuring": [
+    "ghost",
+    "horror",
+    "house",
+    "scared",
+    "mystery"
+  ],
+  "It": [
+    "horror",
+    "child",
+    "scared",
+    "monster",
+    "fight"
+  ],
+  "Get Out": [
+    "horror",
+    "brain",
+    "mystery",
+    "scared",
+    "villain"
+  ],
+  "Us": [
+    "horror",
+    "family",
+    "fight",
+    "scared",
+    "mystery"
+  ],
+  "A Quiet Place": [
+    "scared",
+    "monster",
+    "family",
+    "child",
+    "death"
+  ],
+  "Bird Box": [
+    "scared",
+    "monster",
+    "family",
+    "nature",
+    "child"
+  ],
+  "The Exorcist": [
+    "horror",
+    "ghost",
+    "child",
+    "scared",
+    "religion"
+  ],
+  "Hereditary": [
+    "horror",
+    "family",
+    "death",
+    "scared",
+    "fire"
+  ],
+  "Midsommar": [
+    "horror",
+    "nature",
+    "fire",
+    "sad",
+    "scared"
+  ],
+  "Scream": [
+    "horror",
+    "mystery",
+    "phone",
+    "death",
+    "scared"
+  ],
+  "Halloween": [
+    "horror",
+    "villain",
+    "death",
+    "scared",
+    "house"
+  ],
+  "The Shining": [
+    "horror",
+    "house",
+    "snow",
+    "angry",
+    "scared"
+  ],
+  "Alien": [
+    "space",
+    "monster",
+    "scared",
+    "death",
+    "fight"
+  ],
+  "Predator": [
+    "jungle",
+    "fight",
+    "monster",
+    "gun",
+    "hero"
+  ],
+  "Terminator": [
+    "robot",
+    "time",
+    "gun",
+    "fight",
+    "death"
+  ],
+  "Terminator 2": [
+    "robot",
+    "time",
+    "gun",
+    "fight",
+    "child"
+  ],
+  "The Social Network": [
+    "computer",
+    "money",
+    "angry",
+    "law",
+    "brain"
+  ],
+  "Steve Jobs": [
+    "computer",
+    "angry",
+    "family",
+    "brain",
+    "phone"
+  ],
+  "The Imitation Game": [
+    "brain",
+    "war",
+    "computer",
+    "mystery",
+    "death"
+  ],
+  "A Beautiful Mind": [
+    "brain",
+    "love",
+    "mystery",
+    "sad",
+    "science"
+  ],
+  "Good Will Hunting": [
+    "brain",
+    "book",
+    "love",
+    "angry",
+    "sad"
+  ],
+  "Dead Poets Society": [
+    "school",
+    "book",
+    "freedom",
+    "sad",
+    "death"
+  ],
+  "The Breakfast Club": [
+    "school",
+    "angry",
+    "laugh",
+    "dance",
+    "freedom"
+  ],
+  "Mean Girls": [
+    "school",
+    "villain",
+    "angry",
+    "laugh",
+    "love"
+  ],
+  "Legally Blonde": [
+    "school",
+    "law",
+    "hero",
+    "love",
+    "happy"
+  ],
+  "10 Things I Hate About You": [
+    "school",
+    "love",
+    "angry",
+    "laugh",
+    "music"
+  ],
+  "Ferris Bueller's Day Off": [
+    "school",
+    "car",
+    "speed",
+    "laugh",
+    "happy"
+  ],
+  "Home Alone": [
+    "house",
+    "child",
+    "laugh",
+    "villain",
+    "happy"
+  ],
+  "The Karate Kid": [
+    "fight",
+    "child",
+    "school",
+    "hero",
+    "sports"
+  ],
+  "Matilda": [
+    "magic",
+    "child",
+    "book",
+    "school",
+    "villain"
+  ],
+  "Charlie and the Chocolate Factory": [
+    "chocolate",
+    "child",
+    "magic",
+    "food",
+    "villain"
+  ],
+  "Willy Wonka": [
+    "chocolate",
+    "child",
+    "magic",
+    "food",
+    "happy"
+  ],
+  "The Polar Express": [
+    "train",
+    "snow",
+    "child",
+    "magic",
+    "happy"
+  ],
+  "Elf": [
+    "snow",
+    "laugh",
+    "happy",
+    "child",
+    "food"
+  ],
+  "The Grinch": [
+    "snow",
+    "villain",
+    "happy",
+    "love",
+    "laugh"
+  ],
+  "A Christmas Carol": [
+    "ghost",
+    "snow",
+    "villain",
+    "happy",
+    "money"
+  ],
+  "Die Hard": [
+    "explosion",
+    "gun",
+    "hero",
+    "villain",
+    "city"
+  ],
+  "Lethal Weapon": [
+    "gun",
+    "fight",
+    "laugh",
+    "hero",
+    "explosion"
+  ],
+  "Beverly Hills Cop": [
+    "gun",
+    "laugh",
+    "city",
+    "hero",
+    "car"
+  ],
+  "The Departed": [
+    "gun",
+    "spy",
+    "death",
+    "mystery",
+    "villain"
+  ],
+  "Goodfellas": [
+    "gun",
+    "money",
+    "family",
+    "death",
+    "villain"
+  ],
+  "Casino": [
+    "money",
+    "love",
+    "villain",
+    "death",
+    "city"
+  ],
+  "Scarface": [
+    "gun",
+    "money",
+    "drug",
+    "villain",
+    "death"
+  ],
+  "The Wolf of Wall Street": [
+    "money",
+    "drug",
+    "laugh",
+    "love",
+    "law"
+  ],
+  "Catch Me If You Can": [
+    "spy",
+    "plane",
+    "money",
+    "laugh",
+    "mystery"
+  ],
+  "Ocean's Eleven": [
+    "money",
+    "spy",
+    "treasure",
+    "city",
+    "laugh"
+  ],
+  "The Italian Job": [
+    "car",
+    "money",
+    "treasure",
+    "city",
+    "speed"
+  ],
+  "National Treasure": [
+    "treasure",
+    "mystery",
+    "history",
+    "hero",
+    "jewel"
+  ],
+  "Indiana Jones": [
+    "treasure",
+    "fight",
+    "snake",
+    "hero",
+    "plane"
+  ],
+  "Tomb Raider": [
+    "treasure",
+    "fight",
+    "nature",
+    "gun",
+    "hero"
+  ],
+  "Jumanji": [
+    "jungle",
+    "game",
+    "animal",
+    "scared",
+    "magic"
+  ],
+  "The Jungle Book": [
+    "jungle",
+    "animal",
+    "child",
+    "sing",
+    "nature"
+  ],
+  "Tarzan": [
+    "jungle",
+    "animal",
+    "love",
+    "nature",
+    "hero"
+  ],
+  "Planet of the Apes": [
+    "animal",
+    "war",
+    "prison",
+    "hero",
+    "fight"
+  ],
+  "King Kong": [
+    "animal",
+    "city",
+    "love",
+    "fight",
+    "mountain"
+  ],
+  "Godzilla": [
+    "monster",
+    "city",
+    "explosion",
+    "death",
+    "fight"
+  ],
+  "Pacific Rim": [
+    "robot",
+    "monster",
+    "fight",
+    "ocean",
+    "explosion"
+  ],
+  "Transformers": [
+    "robot",
+    "car",
+    "explosion",
+    "fight",
+    "space"
+  ],
+  "Ready Player One": [
+    "game",
+    "robot",
+    "race",
+    "hero",
+    "love"
+  ],
+  "Free Guy": [
+    "game",
+    "hero",
+    "city",
+    "love",
+    "laugh"
+  ],
+  "Tron": [
+    "computer",
+    "game",
+    "speed",
+    "fight",
+    "power"
+  ],
+  "The Lego Movie": [
+    "hero",
+    "magic",
+    "laugh",
+    "fight",
+    "happy"
+  ],
+  "Wreck-It Ralph": [
+    "game",
+    "hero",
+    "villain",
+    "love",
+    "happy"
+  ],
+  "Ralph Breaks the Internet": [
+    "game",
+    "computer",
+    "love",
+    "city",
+    "laugh"
+  ],
+  "Big Hero 6": [
+    "robot",
+    "hero",
+    "science",
+    "sad",
+    "fight"
+  ],
+  "Monsters Inc": [
+    "monster",
+    "child",
+    "scared",
+    "laugh",
+    "love"
+  ],
+  "Cars": [
+    "car",
+    "race",
+    "speed",
+    "love",
+    "hero"
+  ],
+  "Brave": [
+    "hero",
+    "bear",
+    "magic",
+    "family",
+    "nature"
+  ],
+  "Tangled": [
+    "magic",
+    "royalty",
+    "love",
+    "nature",
+    "hero"
+  ],
+  "Aladdin": [
+    "magic",
+    "love",
+    "royalty",
+    "treasure",
+    "desert"
+  ],
+  "The Little Mermaid": [
+    "ocean",
+    "love",
+    "sing",
+    "magic",
+    "royalty"
+  ],
+  "Beauty and the Beast": [
+    "love",
+    "magic",
+    "monster",
+    "royalty",
+    "sing"
+  ],
+  "Cinderella": [
+    "magic",
+    "royalty",
+    "dance",
+    "love",
+    "villain"
+  ],
+  "Sleeping Beauty": [
+    "magic",
+    "royalty",
+    "love",
+    "villain",
+    "dragon"
+  ],
+  "Snow White": [
+    "magic",
+    "royalty",
+    "villain",
+    "nature",
+    "apple"
+  ],
+  "Mulan": [
+    "war",
+    "hero",
+    "dragon",
+    "sword",
+    "love"
+  ],
+  "Pocahontas": [
+    "nature",
+    "love",
+    "war",
+    "sing",
+    "ocean"
+  ],
+  "Bambi": [
+    "nature",
+    "animal",
+    "sad",
+    "death",
+    "child"
+  ],
+  "Dumbo": [
+    "fly",
+    "animal",
+    "sad",
+    "child",
+    "magic"
+  ],
+  "101 Dalmatians": [
+    "dog",
+    "villain",
+    "family",
+    "speed",
+    "hero"
+  ],
+  "Lady and the Tramp": [
+    "dog",
+    "love",
+    "food",
+    "city",
+    "happy"
+  ],
+  "The Aristocats": [
+    "cat",
+    "music",
+    "love",
+    "city",
+    "family"
+  ],
+  "Nemo": [
+    "fish",
+    "ocean",
+    "family",
+    "child",
+    "scared"
+  ],
+  "Breaking Bad": [
+    "drug",
+    "science",
+    "money",
+    "death",
+    "family"
+  ],
+  "Stranger Things": [
+    "monster",
+    "child",
+    "mystery",
+    "scared",
+    "power"
+  ],
+  "Game of Thrones": [
+    "royalty",
+    "sword",
+    "dragon",
+    "death",
+    "war"
+  ],
+  "The Crown": [
+    "royalty",
+    "love",
+    "sad",
+    "family",
+    "crown"
+  ],
+  "Wednesday": [
+    "mystery",
+    "monster",
+    "school",
+    "villain",
+    "dance"
+  ],
+  "Squid Game": [
+    "game",
+    "money",
+    "death",
+    "scared",
+    "fight"
+  ],
+  "Money Heist": [
+    "money",
+    "gun",
+    "spy",
+    "fight",
+    "love"
+  ],
+  "Dark": [
+    "time",
+    "mystery",
+    "child",
+    "death",
+    "science"
+  ],
+  "The Witcher": [
+    "sword",
+    "magic",
+    "monster",
+    "love",
+    "fight"
+  ],
+  "Bridgerton": [
+    "love",
+    "dance",
+    "royalty",
+    "wedding",
+    "family"
+  ],
+  "The Queen's Gambit": [
+    "chess",
+    "drug",
+    "brain",
+    "hero",
+    "sad"
+  ],
+  "Peaky Blinders": [
+    "gun",
+    "family",
+    "money",
+    "fight",
+    "villain"
+  ],
+  "Narcos": [
+    "drug",
+    "gun",
+    "money",
+    "death",
+    "law"
+  ],
+  "The Office": [
+    "laugh",
+    "love",
+    "house",
+    "happy",
+    "angry"
+  ],
+  "Friends": [
+    "love",
+    "laugh",
+    "food",
+    "city",
+    "happy"
+  ],
+  "How I Met Your Mother": [
+    "love",
+    "laugh",
+    "city",
+    "time",
+    "happy"
+  ],
+  "The Big Bang Theory": [
+    "science",
+    "laugh",
+    "love",
+    "space",
+    "brain"
+  ],
+  "Seinfeld": [
+    "laugh",
+    "city",
+    "food",
+    "angry",
+    "happy"
+  ],
+  "Brooklyn Nine-Nine": [
+    "laugh",
+    "mystery",
+    "love",
+    "hero",
+    "happy"
+  ],
+  "Parks and Recreation": [
+    "laugh",
+    "love",
+    "happy",
+    "nature",
+    "hero"
+  ],
+  "Fleabag": [
+    "laugh",
+    "love",
+    "sad",
+    "family",
+    "angry"
+  ],
+  "Ted Lasso": [
+    "sports",
+    "happy",
+    "love",
+    "laugh",
+    "hero"
+  ],
+  "The Mandalorian": [
+    "space",
+    "child",
+    "fight",
+    "gun",
+    "hero"
+  ],
+  "Loki": [
+    "time",
+    "magic",
+    "villain",
+    "fight",
+    "love"
+  ],
+  "WandaVision": [
+    "magic",
+    "love",
+    "sad",
+    "brain",
+    "hero"
+  ],
+  "The Boys": [
+    "hero",
+    "villain",
+    "explosion",
+    "angry",
+    "fight"
+  ],
+  "Invincible": [
+    "hero",
+    "fight",
+    "death",
+    "family",
+    "sad"
+  ],
+  "Arcane": [
+    "fight",
+    "magic",
+    "family",
+    "city",
+    "sad"
+  ],
+  "Attack on Titan": [
+    "monster",
+    "fight",
+    "wall",
+    "death",
+    "hero"
+  ],
+  "Death Note": [
+    "death",
+    "brain",
+    "book",
+    "mystery",
+    "villain"
+  ],
+  "One Piece": [
+    "pirate",
+    "ocean",
+    "treasure",
+    "fight",
+    "laugh"
+  ],
+  "Demon Slayer": [
+    "sword",
+    "monster",
+    "family",
+    "fight",
+    "sad"
+  ],
+  "The Last of Us": [
+    "monster",
+    "child",
+    "nature",
+    "death",
+    "love"
+  ],
+  "House of the Dragon": [
+    "dragon",
+    "royalty",
+    "fire",
+    "death",
+    "war"
+  ],
+  "The Bear": [
+    "cooking",
+    "food",
+    "angry",
+    "family",
+    "sad"
+  ],
+  "Succession": [
+    "money",
+    "family",
+    "angry",
+    "villain",
+    "power"
+  ],
+  "Yellowstone": [
+    "nature",
+    "horse",
+    "family",
+    "gun",
+    "fight"
+  ],
+  "Ozark": [
+    "money",
+    "drug",
+    "family",
+    "death",
+    "lake"
+  ],
+  "Better Call Saul": [
+    "law",
+    "brain",
+    "family",
+    "sad",
+    "villain"
+  ],
+  "Dexter": [
+    "mystery",
+    "villain",
+    "death",
+    "science",
+    "horror"
+  ],
+  "Sherlock": [
+    "mystery",
+    "brain",
+    "city",
+    "villain",
+    "gun"
+  ],
+  "The Umbrella Academy": [
+    "hero",
+    "family",
+    "time",
+    "fight",
+    "music"
+  ],
+  "Lucifer": [
+    "villain",
+    "mystery",
+    "love",
+    "fire",
+    "law"
+  ],
+  "Cobra Kai": [
+    "fight",
+    "school",
+    "hero",
+    "angry",
+    "sports"
+  ],
+  "Emily in Paris": [
+    "love",
+    "city",
+    "food",
+    "art",
+    "happy"
+  ],
+  "Lupin": [
+    "spy",
+    "mystery",
+    "treasure",
+    "brain",
+    "family"
+  ],
+  "You": [
+    "love",
+    "villain",
+    "mystery",
+    "death",
+    "scared"
+  ],
+  "Black Mirror": [
+    "computer",
+    "scared",
+    "brain",
+    "time",
+    "death"
+  ],
+  "Westworld": [
+    "robot",
+    "gun",
+    "mystery",
+    "brain",
+    "fight"
+  ],
+  "Mr. Robot": [
+    "computer",
+    "angry",
+    "brain",
+    "drug",
+    "mystery"
+  ],
+  "Mindhunter": [
+    "brain",
+    "mystery",
+    "villain",
+    "scared",
+    "law"
+  ],
+  "True Detective": [
+    "mystery",
+    "death",
+    "law",
+    "scared",
+    "nature"
+  ],
+  "Fargo": [
+    "snow",
+    "gun",
+    "money",
+    "death",
+    "mystery"
+  ],
+  "Chernobyl": [
+    "nuclear",
+    "death",
+    "fire",
+    "scared",
+    "science"
+  ],
+  "Band of Brothers": [
+    "war",
+    "fight",
+    "hero",
+    "death",
+    "sad"
+  ],
+  "The Walking Dead": [
+    "zombie",
+    "gun",
+    "death",
+    "family",
+    "fight"
+  ],
+  "Haunting of Hill House": [
+    "ghost",
+    "house",
+    "family",
+    "scared",
+    "sad"
+  ],
+  "American Horror Story": [
+    "horror",
+    "ghost",
+    "death",
+    "scared",
+    "villain"
+  ],
+  "Puss in Boots": [
+    "cat",
+    "sword",
+    "magic",
+    "hero",
+    "fight"
+  ],
+  "Wonka": [
+    "chocolate",
+    "magic",
+    "child",
+    "villain",
+    "happy"
+  ],
+  "The Menu": [
+    "cooking",
+    "food",
+    "island",
+    "villain",
+    "death"
+  ],
+  "Nope": [
+    "horse",
+    "space",
+    "scared",
+    "film",
+    "mystery"
+  ],
+  "Talk to Me": [
+    "ghost",
+    "horror",
+    "child",
+    "death",
+    "scared"
+  ],
+  "Saltburn": [
+    "love",
+    "villain",
+    "money",
+    "death",
+    "house"
+  ],
+  "Past Lives": [
+    "love",
+    "sad",
+    "city",
+    "cry",
+    "time"
+  ],
+  "Killers of the Flower Moon": [
+    "money",
+    "death",
+    "mystery",
+    "law",
+    "sad"
+  ],
+  "Napoleon": [
+    "war",
+    "royalty",
+    "love",
+    "fight",
+    "death"
+  ],
+  "Poor Things": [
+    "science",
+    "brain",
+    "love",
+    "city",
+    "freedom"
+  ],
+  "The Fabelmans": [
+    "film",
+    "family",
+    "child",
+    "sad",
+    "love"
+  ],
+  "M3GAN": [
+    "robot",
+    "child",
+    "death",
+    "dance",
+    "villain"
+  ],
+  "Cocaine Bear": [
+    "bear",
+    "drug",
+    "death",
+    "nature",
+    "scared"
+  ],
+  "John Wick 4": [
+    "gun",
+    "dog",
+    "fight",
+    "death",
+    "sword"
+  ],
+  "Asteroid City": [
+    "desert",
+    "space",
+    "art",
+    "child",
+    "mystery"
+  ],
+  "The Holdovers": [
+    "school",
+    "child",
+    "sad",
+    "snow",
+    "love"
+  ],
+  "Anyone But You": [
+    "love",
+    "island",
+    "angry",
+    "laugh",
+    "wedding"
+  ],
+  "Dune Part Two": [
+    "desert",
+    "worm",
+    "fight",
+    "royalty",
+    "power"
+  ],
+  "Oppenheimer": [
+    "nuclear",
+    "science",
+    "death",
+    "law",
+    "sad"
+  ],
+  "Barbie": [
+    "love",
+    "city",
+    "dance",
+    "happy",
+    "brain"
+  ],
+  "The Whale": [
+    "food",
+    "sad",
+    "family",
+    "cry",
+    "death"
+  ],
+  "Bottoms": [
+    "fight",
+    "school",
+    "love",
+    "laugh",
+    "sports"
+  ],
+  "Priscilla": [
+    "music",
+    "love",
+    "sad",
+    "drug",
+    "cry"
+  ],
+  "The Creator": [
+    "robot",
+    "war",
+    "child",
+    "death",
+    "explosion"
+  ],
+  "A Haunting in Venice": [
+    "mystery",
+    "ghost",
+    "death",
+    "scared",
+    "ocean"
+  ],
+  "Wish": [
+    "magic",
+    "royalty",
+    "child",
+    "sing",
+    "villain"
+  ],
+  "Elemental": [
+    "fire",
+    "ocean",
+    "love",
+    "city",
+    "family"
+  ],
+  "The Little Mermaid (2023)": [
+    "ocean",
+    "love",
+    "sing",
+    "magic",
+    "royalty"
+  ],
+  "Mission Impossible Dead Reckoning": [
+    "spy",
+    "train",
+    "fight",
+    "explosion",
+    "speed"
+  ],
+  "Guardians of the Galaxy Vol 3": [
+    "space",
+    "animal",
+    "fight",
+    "sad",
+    "hero"
+  ],
+  "Indiana Jones and the Dial of Destiny": [
+    "treasure",
+    "time",
+    "plane",
+    "fight",
+    "hero"
+  ],
+  "The Flash": [
+    "speed",
+    "time",
+    "hero",
+    "sad",
+    "fight"
+  ],
+  "Blue Beetle": [
+    "bug",
+    "hero",
+    "family",
+    "fight",
+    "power"
+  ],
+  "Aquaman and the Lost Kingdom": [
+    "ocean",
+    "royalty",
+    "fight",
+    "ice",
+    "villain"
+  ],
+  "Dungeons and Dragons": [
+    "dragon",
+    "sword",
+    "magic",
+    "laugh",
+    "treasure"
+  ],
+  "Rebel Moon": [
+    "space",
+    "fight",
+    "sword",
+    "hero",
+    "war"
+  ],
+  "Society of the Snow": [
+    "plane",
+    "mountain",
+    "snow",
+    "death",
+    "sad"
+  ],
+  "Leave the World Behind": [
+    "house",
+    "phone",
+    "ocean",
+    "scared",
+    "family"
+  ],
+  "The Killer": [
+    "gun",
+    "mystery",
+    "spy",
+    "death",
+    "angry"
+  ],
+  "Maestro": [
+    "music",
+    "love",
+    "sad",
+    "art",
+    "cry"
+  ],
+  "Ferrari": [
+    "car",
+    "race",
+    "death",
+    "love",
+    "sad"
+  ],
+  "Anatomy of a Fall": [
+    "mystery",
+    "death",
+    "law",
+    "family",
+    "dog"
+  ],
+  "The Iron Claw": [
+    "fight",
+    "sports",
+    "family",
+    "death",
+    "sad"
+  ],
+  "Rustin": [
+    "freedom",
+    "hero",
+    "love",
+    "fight",
+    "law"
+  ],
+  "May December": [
+    "film",
+    "love",
+    "villain",
+    "sad",
+    "mystery"
+  ],
+  "Dream Scenario": [
+    "dream",
+    "scared",
+    "school",
+    "sad",
+    "laugh"
+  ],
+  "American Fiction": [
+    "book",
+    "money",
+    "laugh",
+    "sad",
+    "art"
+  ],
+  "Godzilla Minus One": [
+    "monster",
+    "explosion",
+    "ocean",
+    "death",
+    "fight"
+  ],
+  "Challengers": [
+    "sports",
+    "love",
+    "fight",
+    "angry",
+    "hero"
+  ],
+  "Furiosa": [
+    "desert",
+    "car",
+    "fight",
+    "villain",
+    "fire"
+  ],
+  "Inside Out 2": [
+    "brain",
+    "happy",
+    "angry",
+    "scared",
+    "sad"
+  ],
+  "Twisters": [
+    "nature",
+    "car",
+    "scared",
+    "speed",
+    "hero"
+  ],
+  "Gladiator 2": [
+    "fight",
+    "royalty",
+    "death",
+    "sword",
+    "angry"
+  ],
+  "Wicked": [
+    "witch",
+    "magic",
+    "sing",
+    "love",
+    "sad"
+  ],
+  "Moana 2": [
+    "ocean",
+    "island",
+    "magic",
+    "sing",
+    "hero"
+  ],
+  "Deadpool and Wolverine": [
+    "hero",
+    "fight",
+    "laugh",
+    "death",
+    "sword"
+  ],
+  "It Ends with Us": [
+    "love",
+    "sad",
+    "angry",
+    "cry",
+    "freedom"
+  ],
+  "Alien Romulus": [
+    "space",
+    "monster",
+    "scared",
+    "death",
+    "horror"
+  ],
+  "Beetlejuice Beetlejuice": [
+    "ghost",
+    "house",
+    "laugh",
+    "child",
+    "death"
+  ],
+  "A Quiet Place Day One": [
+    "scared",
+    "monster",
+    "city",
+    "death",
+    "cat"
+  ],
+  "Despicable Me 4": [
+    "villain",
+    "laugh",
+    "family",
+    "child",
+    "robot"
+  ],
+  "The Wild Robot": [
+    "robot",
+    "island",
+    "bird",
+    "nature",
+    "love"
+  ],
+  "Smile 2": [
+    "horror",
+    "music",
+    "scared",
+    "death",
+    "villain"
+  ],
+  "Conclave": [
+    "mystery",
+    "royalty",
+    "villain",
+    "death",
+    "law"
+  ],
+  "The Substance": [
+    "horror",
+    "magic",
+    "scared",
+    "death",
+    "villain"
+  ],
+  "Nosferatu": [
+    "vampire",
+    "death",
+    "scared",
+    "horror",
+    "love"
+  ],
+  "Civil War": [
+    "war",
+    "gun",
+    "film",
+    "death",
+    "sad"
+  ],
+  "Abigail": [
+    "vampire",
+    "horror",
+    "dance",
+    "death",
+    "scared"
+  ],
+  "Trap": [
+    "music",
+    "villain",
+    "mystery",
+    "child",
+    "scared"
+  ],
+  "Longlegs": [
+    "mystery",
+    "villain",
+    "death",
+    "scared",
+    "law"
+  ],
+  "Kung Fu Panda 4": [
+    "fight",
+    "animal",
+    "villain",
+    "magic",
+    "hero"
+  ],
+  "The Fall Guy": [
+    "film",
+    "car",
+    "fight",
+    "love",
+    "laugh"
+  ],
+  "Fly Me to the Moon": [
+    "space",
+    "film",
+    "love",
+    "laugh",
+    "hero"
+  ],
+  "The Garfield Movie": [
+    "cat",
+    "food",
+    "laugh",
+    "family",
+    "speed"
+  ],
+  "Bad Boys Ride or Die": [
+    "gun",
+    "fight",
+    "car",
+    "laugh",
+    "hero"
+  ],
+  "Kinds of Kindness": [
+    "villain",
+    "death",
+    "mystery",
+    "love",
+    "dog"
+  ],
+  "Horizon An American Saga": [
+    "desert",
+    "war",
+    "horse",
+    "family",
+    "fight"
+  ],
+  "The Brutalist": [
+    "art",
+    "city",
+    "sad",
+    "family",
+    "freedom"
+  ],
+  "Anora": [
+    "love",
+    "money",
+    "wedding",
+    "angry",
+    "sad"
+  ],
+  "Emilia Perez": [
+    "law",
+    "drug",
+    "dance",
+    "love",
+    "sad"
+  ],
+  "Maria": [
+    "music",
+    "sing",
+    "sad",
+    "death",
+    "drug"
+  ],
+  "We Live in Time": [
+    "time",
+    "love",
+    "baby",
+    "sad",
+    "cooking"
+  ],
+  "Heretic": [
+    "horror",
+    "house",
+    "villain",
+    "scared",
+    "death"
+  ],
+  "Queer": [
+    "love",
+    "drug",
+    "sad",
+    "city",
+    "cry"
+  ],
+  "Babygirl": [
+    "love",
+    "villain",
+    "angry",
+    "power",
+    "city"
+  ],
+  "A Complete Unknown": [
+    "music",
+    "sing",
+    "love",
+    "angry",
+    "hero"
+  ],
+  "Nickel Boys": [
+    "child",
+    "school",
+    "sad",
+    "death",
+    "freedom"
+  ],
+  "Sonic the Hedgehog 3": [
+    "speed",
+    "villain",
+    "fight",
+    "hero",
+    "power"
+  ],
+  "Mufasa The Lion King": [
+    "lion",
+    "royalty",
+    "love",
+    "family",
+    "fight"
+  ],
+  "The Room Next Door": [
+    "love",
+    "sad",
+    "death",
+    "cry",
+    "house"
+  ],
+  "September 5": [
+    "film",
+    "war",
+    "scared",
+    "death",
+    "sad"
+  ],
+  "Sing Sing": [
+    "prison",
+    "art",
+    "sad",
+    "hero",
+    "freedom"
+  ],
+  "The Apprentice": [
+    "money",
+    "villain",
+    "city",
+    "power",
+    "angry"
+  ],
+  "12 Angry Men": [
+    "law",
+    "angry",
+    "mystery",
+    "brain",
+    "freedom"
+  ],
+  "12 Years a Slave": [
+    "prison",
+    "freedom",
+    "sad",
+    "death",
+    "family"
+  ],
+  "1917": [
+    "war",
+    "death",
+    "speed",
+    "hero",
+    "explosion"
+  ],
+  "2001: A Space Odyssey": [
+    "space",
+    "robot",
+    "brain",
+    "science",
+    "death"
+  ],
+  "Akira": [
+    "explosion",
+    "city",
+    "power",
+    "science",
+    "nuclear"
+  ],
+  "Andor": [
+    "spy",
+    "prison",
+    "fight",
+    "freedom",
+    "space"
+  ],
+  "Apocalypse Now": [
+    "war",
+    "jungle",
+    "death",
+    "fire",
+    "scared"
+  ],
+  "Argo": [
+    "spy",
+    "scared",
+    "film",
+    "freedom",
+    "mystery"
+  ],
+  "Arrival": [
+    "space",
+    "time",
+    "brain",
+    "mystery",
+    "sad"
+  ],
+  "Baby Reindeer": [
+    "scared",
+    "villain",
+    "sad",
+    "love",
+    "drug"
+  ],
+  "Batman Begins": [
+    "hero",
+    "villain",
+    "fight",
+    "scared",
+    "city"
+  ],
+  "Beetlejuice": [
+    "ghost",
+    "house",
+    "laugh",
+    "monster",
+    "death"
+  ],
+  "Ben-Hur": [
+    "horse",
+    "fight",
+    "freedom",
+    "death",
+    "war"
+  ],
+  "Birdman": [
+    "film",
+    "fly",
+    "art",
+    "brain",
+    "sad"
+  ],
+  "Black Hawk Down": [
+    "war",
+    "gun",
+    "death",
+    "hero",
+    "fight"
+  ],
+  "Blade Runner": [
+    "robot",
+    "city",
+    "death",
+    "mystery",
+    "science"
+  ],
+  "Braveheart": [
+    "war",
+    "freedom",
+    "sword",
+    "love",
+    "death"
+  ],
+  "Casablanca": [
+    "love",
+    "war",
+    "city",
+    "sad",
+    "plane"
+  ],
+  "Cast Away": [
+    "island",
+    "ocean",
+    "fish",
+    "sad",
+    "nature"
+  ],
+  "Citizen Kane": [
+    "money",
+    "power",
+    "sad",
+    "film",
+    "city"
+  ],
+  "Deadpool": [
+    "hero",
+    "fight",
+    "laugh",
+    "gun",
+    "death"
+  ],
+  "Despicable Me": [
+    "villain",
+    "child",
+    "laugh",
+    "family",
+    "robot"
+  ],
+  "Django Unchained": [
+    "gun",
+    "freedom",
+    "fight",
+    "death",
+    "villain"
+  ],
+  "Don't Look Up": [
+    "space",
+    "science",
+    "laugh",
+    "death",
+    "nuclear"
+  ],
+  "Downton Abbey": [
+    "royalty",
+    "love",
+    "family",
+    "house",
+    "old"
+  ],
+  "Dragon Ball Z": [
+    "fight",
+    "power",
+    "dragon",
+    "hero",
+    "explosion"
+  ],
+  "Dunkirk": [
+    "war",
+    "ocean",
+    "plane",
+    "death",
+    "scared"
+  ],
+  "Edward Scissorhands": [
+    "snow",
+    "love",
+    "sad",
+    "monster",
+    "art"
+  ],
+  "Eternal Sunshine of the Spotless Mind": [
+    "love",
+    "brain",
+    "sad",
+    "dream",
+    "time"
+  ],
+  "Euphoria": [
+    "drug",
+    "school",
+    "love",
+    "sad",
+    "angry"
+  ],
+  "Everything Everywhere All at Once": [
+    "family",
+    "fight",
+    "time",
+    "love",
+    "cooking"
+  ],
+  "Extraction": [
+    "gun",
+    "fight",
+    "hero",
+    "explosion",
+    "speed"
+  ],
+  "Fallout": [
+    "nuclear",
+    "war",
+    "death",
+    "monster",
+    "science"
+  ],
+  "Full Metal Jacket": [
+    "war",
+    "gun",
+    "death",
+    "angry",
+    "scared"
+  ],
+  "Fullmetal Alchemist": [
+    "magic",
+    "science",
+    "fight",
+    "death",
+    "family"
+  ],
+  "Gladiator II": [
+    "fight",
+    "royalty",
+    "death",
+    "sword",
+    "angry"
+  ],
+  "Glass Onion": [
+    "mystery",
+    "money",
+    "island",
+    "villain",
+    "brain"
+  ],
+  "Gone Girl": [
+    "mystery",
+    "love",
+    "villain",
+    "death",
+    "brain"
+  ],
+  "Gone with the Wind": [
+    "war",
+    "love",
+    "fire",
+    "sad",
+    "house"
+  ],
+  "Goodnight Mommy": [
+    "horror",
+    "child",
+    "mystery",
+    "scared",
+    "family"
+  ],
+  "Grey's Anatomy": [
+    "doctor",
+    "love",
+    "death",
+    "sad",
+    "family"
+  ],
+  "Groundhog Day": [
+    "time",
+    "laugh",
+    "love",
+    "happy",
+    "snow"
+  ],
+  "Hacksaw Ridge": [
+    "war",
+    "hero",
+    "death",
+    "fight",
+    "freedom"
+  ],
+  "Her": [
+    "love",
+    "computer",
+    "sad",
+    "city",
+    "brain"
+  ],
+  "House of Cards": [
+    "power",
+    "villain",
+    "money",
+    "law",
+    "death"
+  ],
+  "Ice Age": [
+    "ice",
+    "animal",
+    "child",
+    "snow",
+    "laugh"
+  ],
+  "Inglourious Basterds": [
+    "war",
+    "gun",
+    "death",
+    "villain",
+    "fight"
+  ],
+  "Jack Ryan": [
+    "spy",
+    "gun",
+    "war",
+    "fight",
+    "explosion"
+  ],
+  "Jujutsu Kaisen": [
+    "fight",
+    "monster",
+    "magic",
+    "death",
+    "power"
+  ],
+  "Jurassic World": [
+    "dinosaur",
+    "science",
+    "island",
+    "fight",
+    "speed"
+  ],
+  "Lawrence of Arabia": [
+    "desert",
+    "war",
+    "hero",
+    "freedom",
+    "horse"
+  ],
+  "Leon: The Professional": [
+    "gun",
+    "child",
+    "villain",
+    "death",
+    "fight"
+  ],
+  "Life of Pi": [
+    "ocean",
+    "animal",
+    "nature",
+    "fish",
+    "scared"
+  ],
+  "Lightyear": [
+    "space",
+    "robot",
+    "hero",
+    "fly",
+    "speed"
+  ],
+  "Little Women": [
+    "love",
+    "book",
+    "family",
+    "sad",
+    "art"
+  ],
+  "Logan": [
+    "hero",
+    "death",
+    "child",
+    "fight",
+    "sad"
+  ],
+  "Lost": [
+    "island",
+    "mystery",
+    "plane",
+    "death",
+    "nature"
+  ],
+  "Léon the Professional": [
+    "gun",
+    "child",
+    "villain",
+    "death",
+    "fight"
+  ],
+  "Mad Max: Fury Road": [
+    "desert",
+    "car",
+    "fight",
+    "explosion",
+    "speed"
+  ],
+  "Madagascar": [
+    "animal",
+    "island",
+    "jungle",
+    "laugh",
+    "dance"
+  ],
+  "Mare of Easttown": [
+    "mystery",
+    "death",
+    "law",
+    "sad",
+    "family"
+  ],
+  "Marriage Story": [
+    "love",
+    "family",
+    "law",
+    "sad",
+    "angry"
+  ],
+  "Megamind": [
+    "villain",
+    "hero",
+    "city",
+    "laugh",
+    "brain"
+  ],
+  "Memento": [
+    "mystery",
+    "death",
+    "brain",
+    "time",
+    "photograph"
+  ],
+  "Minions": [
+    "villain",
+    "laugh",
+    "child",
+    "happy",
+    "hero"
+  ],
+  "Monsters, Inc.": [
+    "monster",
+    "child",
+    "scared",
+    "laugh",
+    "love"
+  ],
+  "Moonlight": [
+    "love",
+    "sad",
+    "drug",
+    "child",
+    "ocean"
+  ],
+  "My Neighbor Totoro": [
+    "nature",
+    "child",
+    "magic",
+    "animal",
+    "happy"
+  ],
+  "Naruto": [
+    "fight",
+    "hero",
+    "power",
+    "monster",
+    "magic"
+  ],
+  "No Country for Old Men": [
+    "gun",
+    "villain",
+    "death",
+    "mystery",
+    "desert"
+  ],
+  "North by Northwest": [
+    "spy",
+    "mystery",
+    "plane",
+    "scared",
+    "speed"
+  ],
+  "Only Murders in the Building": [
+    "mystery",
+    "death",
+    "laugh",
+    "city",
+    "brain"
+  ],
+  "Outer Banks": [
+    "treasure",
+    "island",
+    "ocean",
+    "mystery",
+    "fight"
+  ],
+  "Paddington": [
+    "bear",
+    "child",
+    "family",
+    "laugh",
+    "happy"
+  ],
+  "Platoon": [
+    "war",
+    "gun",
+    "death",
+    "jungle",
+    "fight"
+  ],
+  "Princess Mononoke": [
+    "nature",
+    "animal",
+    "fight",
+    "magic",
+    "war"
+  ],
+  "Psycho": [
+    "horror",
+    "mystery",
+    "death",
+    "scared",
+    "villain"
+  ],
+  "Reacher": [
+    "fight",
+    "mystery",
+    "gun",
+    "hero",
+    "law"
+  ],
+  "Rear Window": [
+    "mystery",
+    "photograph",
+    "love",
+    "scared",
+    "spy"
+  ],
+  "Robocop": [
+    "robot",
+    "gun",
+    "city",
+    "fight",
+    "law"
+  ],
+  "Saving Private Ryan": [
+    "war",
+    "death",
+    "hero",
+    "fight",
+    "gun"
+  ],
+  "Se7en": [
+    "mystery",
+    "death",
+    "villain",
+    "law",
+    "horror"
+  ],
+  "Severance": [
+    "mystery",
+    "brain",
+    "computer",
+    "scared",
+    "prison"
+  ],
+  "Sex Education": [
+    "school",
+    "love",
+    "laugh",
+    "child",
+    "family"
+  ],
+  "Shazam": [
+    "hero",
+    "magic",
+    "child",
+    "fight",
+    "laugh"
+  ],
+  "Shogun": [
+    "sword",
+    "war",
+    "royalty",
+    "death",
+    "fight"
+  ],
+  "Shrek 2": [
+    "monster",
+    "love",
+    "magic",
+    "laugh",
+    "royalty"
+  ],
+  "Shutter Island": [
+    "mystery",
+    "island",
+    "brain",
+    "scared",
+    "death"
+  ],
+  "Sing": [
+    "sing",
+    "animal",
+    "music",
+    "happy",
+    "dance"
+  ],
+  "Singin' in the Rain": [
+    "sing",
+    "dance",
+    "music",
+    "love",
+    "happy"
+  ],
+  "Slow Horses": [
+    "spy",
+    "mystery",
+    "city",
+    "gun",
+    "brain"
+  ],
+  "Slumdog Millionaire": [
+    "money",
+    "game",
+    "love",
+    "child",
+    "city"
+  ],
+  "Some Like It Hot": [
+    "laugh",
+    "music",
+    "love",
+    "gun",
+    "dance"
+  ],
+  "Speed": [
+    "car",
+    "speed",
+    "explosion",
+    "hero",
+    "scared"
+  ],
+  "Spirited Away": [
+    "magic",
+    "monster",
+    "child",
+    "nature",
+    "dragon"
+  ],
+  "Spotlight": [
+    "mystery",
+    "law",
+    "child",
+    "villain",
+    "brain"
+  ],
+  "Squid Game Season 2": [
+    "game",
+    "money",
+    "death",
+    "scared",
+    "fight"
+  ],
+  "Stranger Things Season 4": [
+    "monster",
+    "mystery",
+    "power",
+    "death",
+    "scared"
+  ],
+  "Suits": [
+    "law",
+    "city",
+    "money",
+    "brain",
+    "love"
+  ],
+  "Superman": [
+    "hero",
+    "fly",
+    "power",
+    "city",
+    "love"
+  ],
+  "Taxi Driver": [
+    "gun",
+    "city",
+    "angry",
+    "villain",
+    "sad"
+  ],
+  "Tenet": [
+    "time",
+    "spy",
+    "gun",
+    "explosion",
+    "brain"
+  ],
+  "The Accountant": [
+    "gun",
+    "brain",
+    "mystery",
+    "money",
+    "fight"
+  ],
+  "The Big Short": [
+    "money",
+    "brain",
+    "angry",
+    "law",
+    "city"
+  ],
+  "The Gentlemen": [
+    "gun",
+    "drug",
+    "money",
+    "villain",
+    "laugh"
+  ],
+  "The Godfather Part II": [
+    "gun",
+    "family",
+    "money",
+    "death",
+    "power"
+  ],
+  "The Grand Budapest Hotel": [
+    "mystery",
+    "art",
+    "laugh",
+    "love",
+    "mountain"
+  ],
+  "The Great Gatsby": [
+    "money",
+    "love",
+    "city",
+    "death",
+    "sad"
+  ],
+  "The Handmaid's Tale": [
+    "prison",
+    "freedom",
+    "angry",
+    "villain",
+    "sad"
+  ],
+  "The Hangover": [
+    "laugh",
+    "city",
+    "baby",
+    "angry",
+    "mystery"
+  ],
+  "The King's Speech": [
+    "king",
+    "royalty",
+    "war",
+    "hero",
+    "sad"
+  ],
+  "The Martian": [
+    "space",
+    "science",
+    "nature",
+    "hero",
+    "food"
+  ],
+  "The Maze Runner": [
+    "speed",
+    "scared",
+    "fight",
+    "prison_escape",
+    "monster"
+  ],
+  "The Pianist": [
+    "music",
+    "war",
+    "death",
+    "sad",
+    "city"
+  ],
+  "The Prestige": [
+    "magic",
+    "mystery",
+    "death",
+    "brain",
+    "villain"
+  ],
+  "The Princess Bride": [
+    "love",
+    "sword",
+    "hero",
+    "laugh",
+    "royalty"
+  ],
+  "The Secret Life of Pets": [
+    "dog",
+    "cat",
+    "city",
+    "animal",
+    "laugh"
+  ],
+  "The Shape of Water": [
+    "love",
+    "monster",
+    "ocean",
+    "spy",
+    "fish"
+  ],
+  "The Sixth Sense": [
+    "ghost",
+    "child",
+    "scared",
+    "mystery",
+    "death"
+  ],
+  "The Terminator": [
+    "robot",
+    "time",
+    "gun",
+    "fight",
+    "death"
+  ],
+  "The Theory of Everything": [
+    "science",
+    "love",
+    "brain",
+    "sad",
+    "time"
+  ],
+  "The Witcher Season 2": [
+    "sword",
+    "magic",
+    "monster",
+    "fight",
+    "family"
+  ],
+  "There Will Be Blood": [
+    "money",
+    "fire",
+    "angry",
+    "death",
+    "power"
+  ],
+  "Titanic 2": [
+    "ship",
+    "ocean",
+    "ice",
+    "death",
+    "scared"
+  ],
+  "Titanic II": [
+    "ship",
+    "ocean",
+    "ice",
+    "death",
+    "scared"
+  ],
+  "Total Recall": [
+    "space",
+    "robot",
+    "brain",
+    "fight",
+    "mystery"
+  ],
+  "Triangle of Sadness": [
+    "ship",
+    "ocean",
+    "money",
+    "island",
+    "laugh"
+  ],
+  "Umbrella Academy": [
+    "hero",
+    "family",
+    "time",
+    "fight",
+    "music"
+  ],
+  "Vertigo": [
+    "mystery",
+    "love",
+    "scared",
+    "death",
+    "city"
+  ],
+  "Vikings": [
+    "war",
+    "ship",
+    "sword",
+    "death",
+    "ocean"
+  ],
+  "White Lotus": [
+    "island",
+    "money",
+    "death",
+    "mystery",
+    "love"
+  ],
+  "X-Men": [
+    "hero",
+    "fight",
+    "power",
+    "villain",
+    "science"
+  ],
+  "Your Name": [
+    "love",
+    "time",
+    "magic",
+    "sad",
+    "city"
+  ],
+  "Zodiac": [
+    "mystery",
+    "death",
+    "law",
+    "scared",
+    "brain"
+  ]
+}

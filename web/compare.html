@@ -1,0 +1,369 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Base vs SFT vs RL (ReST) — Three-Way Comparison</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+            background: #0f0f1a;
+            color: #fff;
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            padding: 2rem;
+        }
+
+        .container {
+            max-width: 1100px;
+            width: 100%;
+        }
+
+        h1 {
+            text-align: center;
+            font-size: 2.2rem;
+            margin-bottom: 0.5rem;
+        }
+
+        .subtitle {
+            text-align: center;
+            color: #888;
+            margin-bottom: 2rem;
+        }
+
+        .input-row {
+            display: flex;
+            gap: 12px;
+            margin-bottom: 2rem;
+        }
+
+        input[type="text"] {
+            flex: 1;
+            padding: 14px 20px;
+            border-radius: 12px;
+            border: 2px solid #333;
+            background: #1a1a2e;
+            color: #fff;
+            font-size: 1.1rem;
+            outline: none;
+            transition: border-color 0.2s;
+        }
+
+        input[type="text"]:focus {
+            border-color: #6c5ce7;
+        }
+
+        button {
+            padding: 14px 28px;
+            border-radius: 12px;
+            border: none;
+            font-size: 1.1rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: transform 0.1s, opacity 0.2s;
+            background: #6c5ce7;
+            color: #fff;
+        }
+
+        button:active { transform: scale(0.96); }
+        button:disabled { opacity: 0.5; cursor: not-allowed; }
+
+        .comparison {
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr;
+            gap: 1.2rem;
+            margin-top: 1rem;
+        }
+
+        .panel {
+            background: #1a1a2e;
+            border-radius: 16px;
+            padding: 1.5rem;
+            min-height: 200px;
+        }
+
+        .panel-label {
+            font-size: 0.8rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin-bottom: 0.5rem;
+            padding-bottom: 0.6rem;
+            border-bottom: 1px solid #333;
+        }
+
+        .panel-desc {
+            font-size: 0.7rem;
+            color: #555;
+            margin-bottom: 0.8rem;
+        }
+
+        .label-base { color: #e17055; }
+        .label-sft { color: #00b894; }
+        .label-rl { color: #74b9ff; }
+
+        .panel-content {
+            font-size: 2rem;
+            line-height: 1.6;
+            letter-spacing: 5px;
+            word-break: break-word;
+            min-height: 80px;
+        }
+
+        .panel-content.text-response {
+            font-size: 0.9rem;
+            letter-spacing: normal;
+            line-height: 1.6;
+            color: #ccc;
+        }
+
+        .title-name {
+            text-align: center;
+            font-size: 1.3rem;
+            color: #6c5ce7;
+            margin-bottom: 1rem;
+            min-height: 1.5rem;
+        }
+
+        .loading {
+            color: #666;
+            font-size: 1rem;
+        }
+
+        .loading::after {
+            content: '';
+            animation: dots 1.5s steps(4) infinite;
+        }
+
+        @keyframes dots {
+            0% { content: ''; }
+            25% { content: '.'; }
+            50% { content: '..'; }
+            75% { content: '...'; }
+        }
+
+        .history {
+            margin-top: 3rem;
+        }
+
+        .history h2 {
+            font-size: 1.2rem;
+            color: #888;
+            margin-bottom: 1rem;
+        }
+
+        .history-item {
+            background: #1a1a2e;
+            border-radius: 12px;
+            padding: 1.2rem;
+            margin-bottom: 1rem;
+        }
+
+        .history-title {
+            font-size: 1rem;
+            color: #6c5ce7;
+            font-weight: 600;
+            margin-bottom: 0.75rem;
+        }
+
+        .history-row {
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr;
+            gap: 1rem;
+        }
+
+        .history-label {
+            font-size: 0.65rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin-bottom: 0.3rem;
+        }
+
+        .history-base { color: #e17055; }
+        .history-sft { color: #00b894; }
+        .history-rl { color: #74b9ff; }
+
+        .history-text {
+            font-size: 1.3rem;
+            letter-spacing: 3px;
+            word-break: break-word;
+        }
+
+        .history-text.text-response {
+            font-size: 0.85rem;
+            letter-spacing: normal;
+            color: #ccc;
+        }
+
+        .legend {
+            display: flex;
+            justify-content: center;
+            gap: 2rem;
+            margin-bottom: 1.5rem;
+            font-size: 0.8rem;
+        }
+
+        .legend-item {
+            display: flex;
+            align-items: center;
+            gap: 0.4rem;
+        }
+
+        .legend-dot {
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+        }
+
+        .hidden { display: none; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Base vs SFT vs RL</h1>
+        <p class="subtitle">Three-way comparison of training approaches</p>
+
+        <div class="legend">
+            <div class="legend-item">
+                <div class="legend-dot" style="background: #e17055;"></div>
+                <span style="color: #e17055;">Base Model</span>
+                <span style="color: #555;"> — no training</span>
+            </div>
+            <div class="legend-item">
+                <div class="legend-dot" style="background: #00b894;"></div>
+                <span style="color: #00b894;">SFT</span>
+                <span style="color: #555;"> — supervised pairs</span>
+            </div>
+            <div class="legend-item">
+                <div class="legend-dot" style="background: #74b9ff;"></div>
+                <span style="color: #74b9ff;">RL (ReST)</span>
+                <span style="color: #555;"> — reward-filtered self-training</span>
+            </div>
+        </div>
+
+        <div class="input-row">
+            <input type="text" id="movie-input" placeholder="Enter a movie or TV series name..." autocomplete="off">
+            <button id="compare-btn" onclick="compare()">Compare</button>
+        </div>
+
+        <div class="title-name" id="title-name"></div>
+
+        <div class="comparison hidden" id="comparison">
+            <div class="panel">
+                <div class="panel-label label-base">Base Model</div>
+                <div class="panel-desc">No fine-tuning — raw pretrained model</div>
+                <div class="panel-content" id="base-output"></div>
+            </div>
+            <div class="panel">
+                <div class="panel-label label-sft">SFT (Supervised)</div>
+                <div class="panel-desc">Trained on input → output pairs</div>
+                <div class="panel-content" id="sft-output"></div>
+            </div>
+            <div class="panel">
+                <div class="panel-label label-rl">RL (ReST)</div>
+                <div class="panel-desc">Reward-scored: relevance, purity, length, diversity</div>
+                <div class="panel-content" id="rl-output"></div>
+            </div>
+        </div>
+
+        <div class="history hidden" id="history">
+            <h2>Previous Comparisons</h2>
+            <div id="history-list"></div>
+        </div>
+    </div>
+
+    <script>
+        const API = window.location.origin;
+        const history = [];
+
+        function isEmojiOnly(text) {
+            const stripped = text.replace(/[\s\n]/g, '');
+            const emojiPattern = /^[\p{Emoji_Presentation}\p{Extended_Pictographic}‍️]+$/u;
+            return emojiPattern.test(stripped);
+        }
+
+        function getContentClass(text, size) {
+            const base = size === 'small' ? 'history-text' : 'panel-content';
+            return isEmojiOnly(text) ? base : `${base} text-response`;
+        }
+
+        async function compare() {
+            const input = document.getElementById('movie-input');
+            const movie = input.value.trim();
+            if (!movie) return;
+
+            document.getElementById('compare-btn').disabled = true;
+            document.getElementById('title-name').textContent = movie;
+            document.getElementById('comparison').classList.remove('hidden');
+            document.getElementById('base-output').innerHTML = '<span class="loading">Generating</span>';
+            document.getElementById('sft-output').innerHTML = '<span class="loading">Generating</span>';
+            document.getElementById('rl-output').innerHTML = '<span class="loading">Generating</span>';
+
+            const res = await fetch(`${API}/api/compare`, {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ movie })
+            });
+            const data = await res.json();
+
+            const baseEl = document.getElementById('base-output');
+            const sftEl = document.getElementById('sft-output');
+            const rlEl = document.getElementById('rl-output');
+
+            baseEl.textContent = data.base;
+            sftEl.textContent = data.sft;
+            rlEl.textContent = data.rl;
+
+            baseEl.className = getContentClass(data.base, 'large');
+            sftEl.className = getContentClass(data.sft, 'large');
+            rlEl.className = getContentClass(data.rl, 'large');
+
+            history.unshift(data);
+            renderHistory();
+
+            document.getElementById('compare-btn').disabled = false;
+            input.value = '';
+            input.focus();
+        }
+
+        function renderHistory() {
+            if (history.length <= 1) return;
+            const container = document.getElementById('history');
+            const list = document.getElementById('history-list');
+            container.classList.remove('hidden');
+
+            list.innerHTML = history.slice(1).map(h => {
+                const baseClass = getContentClass(h.base, 'small');
+                const sftClass = getContentClass(h.sft, 'small');
+                const rlClass = getContentClass(h.rl, 'small');
+                return `
+                    <div class="history-item">
+                        <div class="history-title">${h.movie}</div>
+                        <div class="history-row">
+                            <div>
+                                <div class="history-label history-base">Base</div>
+                                <div class="${baseClass}">${h.base}</div>
+                            </div>
+                            <div>
+                                <div class="history-label history-sft">SFT</div>
+                                <div class="${sftClass}">${h.sft}</div>
+                            </div>
+                            <div>
+                                <div class="history-label history-rl">RL (ReST)</div>
+                                <div class="${rlClass}">${h.rl}</div>
+                            </div>
+                        </div>
+                    </div>
+                `;
+            }).join('');
+        }
+
+        document.getElementById('movie-input').addEventListener('keydown', e => {
+            if (e.key === 'Enter') compare();
+        });
+    </script>
+</body>
+</html>
